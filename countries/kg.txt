@@ -1,8 +1,3 @@
-# Domains blocked in KG per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
-archive.org
-banthis.tv
-ddosecrets.com
+# Domains blocked in KG per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
 kyrgyzmedia.com
-nazarene.org
 rus.kg
-soros.kg

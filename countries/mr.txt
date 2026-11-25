@@ -1,6 +1,0 @@
-# Domains blocked in MR per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
-albrhan.org
-chbihpresident2007.bloguez.com
-freespeechdebate.com
-nytimes.com
-root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net

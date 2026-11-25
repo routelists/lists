@@ -1,29 +1,15 @@
-# Domains blocked in CI per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
-absinth.com
+# Domains blocked in CI per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
 bcc.chat
-betfair.com
-bglad.com
-drugsense.org
-excite.com
-forum.mhut.org
 freespeechdebate.com
-gawker.com
 gayscape.com
 im0-tub-com.yandex.net
 inetprivacy.com
 ivoirebusiness.net
+justicewomen.com
 knapsackforhope.org
-libgen.is
-livestream.com
 megaproxy.com
-mp3.com
-premaritalsex.info
+presearch.org
 secfirst.org
-shia.org
-sportingbet.com
-sportsinteraction.com
-teenhealthfx.com
-walmart.com
+surfeasy.com
 wluml.org
 xxx.lanl.gov
-yandexwebcache.net

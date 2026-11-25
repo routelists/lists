@@ -1,28 +1,14 @@
-# Domains blocked in MT per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
-1tv.ru
-bbm.com
+# Domains blocked in MT per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
 bcc.chat
-excite.com
 freespeechdebate.com
 im0-tub-com.yandex.net
 implantinfo.com
 inetprivacy.com
+justicewomen.com
 knapsackforhope.org
 megaproxy.com
-premaritalsex.info
-ren.tv
-ria.ru
-rt.com
-rtarabic.com
-rtr-planeta.com
-russia.tv
+noblogs.org
+ntc.party
 secfirst.org
-shia.org
-smotrim.ru
-sputniknews.cn
-sputniknews.com
-tvc.ru
-vesti.ru
-vgtrk.ru
+surfeasy.com
 xxx.lanl.gov
-yandexwebcache.net

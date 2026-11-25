@@ -1,0 +1,15 @@
+# Domains blocked in PE per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+accionpopular.org.pe
+amp.cloudflare.com
+blog.pucp.edu.pe
+ddosecrets.com
+doh-fi.blahdns.com
+drugsense.org
+justicewomen.com
+lgbtnewsnow.org
+libgen.lc
+lingo.com
+noblogs.org
+partidonacionalistaperuano.com
+presearch.org
+surfeasy.com

@@ -1,4 +1,4 @@
-# Domains blocked in KZ per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+# Domains blocked in KZ per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
 12vpx.com
 1337x.to
 15minut.org
@@ -7,11 +7,13 @@
 ablyazov.org
 about.riot.im
 absinth.com
+activpn.com
 airvpn.org
 ajur.kz
 almatinki.com
 altaynews.kz
 amnesty.org.ru
+amp.cloudflare.com
 app.element.io
 archive.org
 archive.ph
@@ -27,6 +29,7 @@ bcc.chat
 beeg.com
 belkavpn.com
 betfair.com
+better.kz
 betternet.co
 bitcoin.org
 blackjackinfo.com
@@ -37,7 +40,6 @@ borderlessvpn.io
 bravoporn.com
 brokers.ru
 browsec.com
-bsky.app
 bughunters.google.com
 bulletvpn.com
 buzzfeed.com
@@ -49,25 +51,28 @@ casino.com
 casinotropez.com
 centralasia.media
 change.org
+chezasite.com
 cloudvpn.pro
 coinbase.com
 coinex.com
 cont.ws
 cyberghostvpn.com
 dailymotion.com
+ddosecrets.com
 disconnect.me
 distant.pro
+doh-fi.blahdns.com
 dotvpn.com
 droidvpn.com
-edge-chat.instagram.com
+ecosen.kz
 egov.press
 element.io
 elhosting.ru
 erowid.org
 excite.com
 expressvpn.com
-facebook.com
 feedtheminds.org
+femagora.org
 fergana.media
 fergana.news
 flickr.com
@@ -106,10 +111,9 @@ hodlhodl.com
 hornet.com
 hotspotshield.com
 hunafa.com
-i.instagram.com
 im0-tub-com.yandex.net
+implantinfo.com
 inetprivacy.com
-instagram.com
 ipetitions.com
 ipvanish.com
 irex.ru
@@ -118,6 +122,7 @@ islaminstitut.de
 ivacy.com
 jackpotcitycasino1.com
 jahforum.org
+justicewomen.com
 kavkazcenter.com
 keenow.com
 khilafah.net
@@ -132,16 +137,17 @@ kz.tsargrad.tv
 le-vpn.com
 lgbtnewsnow.org
 libgen.is
+libgen.lc
 libgen.rs
 libgen.st
 lifetimepremiumvpn.com
+lingo.com
 livejournal.com
 livemy.info
 loveplanet.ru
 luckynugget.com
 lushstories.com
 mac.eltima.com
-malwares.com
 matcha.xyz
 matrix.org
 mchost.ru
@@ -158,6 +164,7 @@ mp3.com
 msn.com
 mullvad.net
 mybrowservpn.com
+mydarling.ru
 myvpn.run
 namba.kz
 netflixvpn.com
@@ -165,7 +172,9 @@ netmap.su
 newsfactory.kz
 newsland.com
 nextmail.ru
+noblogs.org
 nordvpn.com
+ntc.party
 okayfreedom.com
 onlinegambling.com
 onlyfans.com
@@ -180,6 +189,8 @@ personalvpn.com
 pokerstars.com
 poki.com
 pornhub.com
+premaritalsex.info
+presearch.org
 privateinternetaccess.com
 privateproxy.me
 privatevpn.biz
@@ -187,6 +198,7 @@ privatevpn.com
 protonvpn.com
 purevpn.com
 qantar2022.org
+qhnews.com
 regnum.ru
 respublika.kz.media
 ringvpn.com
@@ -197,7 +209,6 @@ rus.azattyq.org
 rus.ozodlik.org
 russia.tv
 saturnvpn.com
-scontent-ams4-1.cdninstagram.com
 secfirst.org
 secure.avaaz.org
 sex.com
@@ -209,6 +220,7 @@ smotrim.ru
 socom.mil
 speeddater.co.uk
 speedify.com
+spinpalace.com
 sportingbet.com
 sproot.it
 sputnikipogrom.com
@@ -218,6 +230,7 @@ stoloto.ru
 strana.kz
 strongvpn.com
 supervpn.im
+surfeasy.com
 surfshark.com
 tango.me
 telegra.ph
@@ -232,7 +245,6 @@ touchvpn.net
 truecaller.com
 trust.zone
 tunnelbear.com
-twitter.com
 ukraina.ru
 ultravpn.com
 uphold.com
@@ -251,9 +263,9 @@ vpnmentor.com
 vpnside.com
 vpntracker.com
 vpnuk.net
+vtk.kz
 vyprvpn.com
 wasabiwallet.io
-web.facebook.com
 wikihow.com
 windscribe.com
 wluml.org

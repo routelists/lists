@@ -1,8 +1,9 @@
-# Domains blocked in AZ per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AZ per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
 350.org
 absinth.com
 abzas.net
 abzas.org
+amp.cloudflare.com
 api.protonvpn.ch
 arqument.az
 azadaz.org
@@ -24,6 +25,7 @@ ddosecrets.com
 dns.adguard.com
 dns.google
 dns.quad9.net
+doh-fi.blahdns.com
 doh.dns.sb
 doh.opendns.com
 dosye.org
@@ -42,19 +44,18 @@ hidemyass.com
 humanrightsclub.net
 im0-tub-com.yandex.net
 imo.im
-implantinfo.com
 inetprivacy.com
 ipfs.io
 ipvanish.com
 islaminstitut.de
+justicewomen.com
 kanal13.tv
 knapsackforhope.org
 libgen.is
 libgen.lc
-libgen.life
 libgen.rs
 libgen.st
-libgen.tw
+lingo.com
 megaproxy.com
 meydan.tv
 mirror.cyberbits.eu
@@ -63,10 +64,13 @@ mozilla.cloudflare-dns.com
 mp3.com
 mtv.re
 mullvad.net
+noblogs.org
 nordvpn.com
+ntc.party
 oc-media.org
 partypoker.com
 premaritalsex.info
+presearch.org
 private.canadianshield.cira.ca
 privateinternetaccess.com
 privatevpn.com
@@ -79,9 +83,11 @@ secfirst.org
 shia.org
 socom.mil
 speeddater.co.uk
+spinpalace.com
 sportingbet.com
 sputnik.az
 strongvpn.com
+surfeasy.com
 surfshark.com
 telegra.ph
 thunder.free-signal.com

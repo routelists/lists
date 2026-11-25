@@ -1,6 +1,0 @@
-# Domains blocked in HT per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
-freespeechdebate.com
-inetprivacy.com
-kcna.kp
-knapsackforhope.org
-megaproxy.com

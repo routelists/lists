@@ -1,0 +1,26 @@
+# Domains blocked in SV per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+amp.cloudflare.com
+bcc.chat
+doh-fi.blahdns.com
+excite.com
+feedtheminds.org
+forum.mhut.org
+gaytoday.com
+im0-tub-com.yandex.net
+inetprivacy.com
+islaminstitut.de
+justicewomen.com
+knapsackforhope.org
+libgen.is
+libgen.rs
+libgen.st
+lingo.com
+megaproxy.com
+mp3.com
+noblogs.org
+ntc.party
+presearch.org
+spinpalace.com
+surfeasy.com
+xxx.lanl.gov
+yandexwebcache.net

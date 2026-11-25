@@ -1,0 +1,6 @@
+# Domains blocked in PA per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+gaytoday.com
+justicewomen.com
+lingo.com
+ntc.party
+presearch.org

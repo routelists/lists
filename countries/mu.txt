@@ -1,9 +1,7 @@
-# Domains blocked in MU per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
-abpr2.railfan.net
-dating.com
-dnsleaktest.com
-feedtheminds.org
-root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
-root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
-teenhealthfx.com
+# Domains blocked in MU per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+freespeechdebate.com
+justicewomen.com
+ntc.party
+presearch.org
+surfeasy.com
 wluml.org

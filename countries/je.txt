@@ -1,5 +1,0 @@
-# Domains blocked in JE per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
-abpr2.railfan.net
-feedtheminds.org
-khilafah.net
-wluml.org

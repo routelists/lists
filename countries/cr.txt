@@ -1,26 +1,24 @@
-# Domains blocked in CR per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CR per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+amp.cloudflare.com
 bcc.chat
-bogus.d2a8n1.rootcanary.net
+doh-fi.blahdns.com
 excite.com
-feedtheminds.org
-forum.mhut.org
 freespeechdebate.com
 gaytoday.com
+gnu.org
 im0-tub-com.yandex.net
 implantinfo.com
 inetprivacy.com
-islaminstitut.de
+justicewomen.com
 knapsackforhope.org
-libgen.is
-libgen.rs
-libgen.st
+livejournal.com
 megaproxy.com
-mnr.gov.cn
-mp3.com
+noblogs.org
+ntc.party
 premaritalsex.info
+presearch.org
 secfirst.org
 shia.org
-socom.mil
-speeddater.co.uk
+surfeasy.com
 xxx.lanl.gov
 yandexwebcache.net

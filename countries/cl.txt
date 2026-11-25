@@ -1,6 +1,8 @@
-# Domains blocked in CL per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CL per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+amp.cloudflare.com
 bcc.chat
 betfair.com
+doh-fi.blahdns.com
 elandino.cl
 elgraficochile.cl
 excite.com
@@ -11,24 +13,27 @@ gaytoday.com
 im0-tub-com.yandex.net
 implantinfo.com
 inetprivacy.com
-islaminstitut.de
 juegalo.com
+justicewomen.com
 knapsackforhope.org
 libgen.is
-libgen.life
 libgen.rs
 libgen.st
 maulee.cl
 megaproxy.com
 mnr.gov.cn
 mp3.com
+noblogs.org
+ntc.party
 premaritalsex.info
+presearch.org
 radiocarillon.cl
 secfirst.org
 shia.org
 socom.mil
 speeddater.co.uk
 sportingbet.com
-walmart.com
+surfeasy.com
+vk.com
 xxx.lanl.gov
 yandexwebcache.net

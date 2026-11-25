@@ -1,3 +1,10 @@
-# Domains blocked in BF per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+# Domains blocked in BF per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+bbc.com
 com.cy
+dw.com
+france24.com
+lemonde.fr
+rfi.fr
+theguardian.com
+voanews.com
 xxx.lanl.gov
