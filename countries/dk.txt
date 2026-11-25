@@ -1,0 +1,8 @@
+# Domains blocked in DK per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+eztv.ag
+eztv.re
+kickasstorrents.to
+root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
+root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
+thepiratebay.org
+wluml.org

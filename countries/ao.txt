@@ -1,0 +1,8 @@
+# Domains blocked in AO per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+facebook.com
+fbcdn.net
+freespeechdebate.com
+secfirst.org
+static.xx.fbcdn.net
+wluml.org
+xxx.lanl.gov

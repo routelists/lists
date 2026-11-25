@@ -1,0 +1,8 @@
+# Domains blocked in BO per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+acoso.online
+activismofeministadigital.org
+eprints.ucm.es
+feminist.org
+freespeechdebate.com
+gatesfoundation.org
+ghost.org

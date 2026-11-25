@@ -1,0 +1,17 @@
+# Domains blocked in MD per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+actiunea2012.ro
+basarabia91.net
+chisinau.mae.ro
+ddosecrets.com
+deca.md
+filecrop.com
+game.portal.md
+grenada.md
+kp.ru
+lens.google.com
+libgen.lc
+mae.ro
+mediafax.ro
+mobil.ru
+pan.md
+searchindia.com

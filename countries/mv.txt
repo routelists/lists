@@ -1,0 +1,26 @@
+# Domains blocked in MV per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+archive.is
+archive.ph
+bcc.chat
+excite.com
+feedtheminds.org
+forum.mhut.org
+freespeechdebate.com
+im0-tub-com.yandex.net
+implantinfo.com
+inetprivacy.com
+knapsackforhope.org
+libgen.is
+libgen.rs
+libgen.st
+megaproxy.com
+mnr.gov.cn
+mp3.com
+premaritalsex.info
+secfirst.org
+shia.org
+socom.mil
+speeddater.co.uk
+wluml.org
+xxx.lanl.gov
+yandexwebcache.net

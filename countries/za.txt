@@ -1,0 +1,25 @@
+# Domains blocked in ZA per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+bcc.chat
+economicfreedomfighters.org
+excite.com
+feedtheminds.org
+forum.mhut.org
+freespeechdebate.com
+im0-tub-com.yandex.net
+inetprivacy.com
+islaminstitut.de
+knapsackforhope.org
+libgen.is
+libgen.lc
+libgen.rs
+libgen.st
+malwares.com
+megaproxy.com
+mnr.gov.cn
+mp3.com
+premaritalsex.info
+secfirst.org
+shia.org
+teenhealthfx.com
+xxx.lanl.gov
+yandexwebcache.net

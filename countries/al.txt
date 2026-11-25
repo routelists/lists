@@ -1,0 +1,19 @@
+# Domains blocked in AL per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+888casino.com
+abpr2.railfan.net
+casino.com
+ddosecrets.com
+dnsleaktest.com
+feedtheminds.org
+goldenpalace.com
+libgen.lc
+nsdapao.info
+partypoker.com
+pof.com
+poker.com
+root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
+root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
+royalvegas.com
+sportingbet.com
+teenhealthfx.com
+wluml.org

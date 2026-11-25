@@ -1,0 +1,18 @@
+# Domains blocked in IL per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+bcc.chat
+ddosecrets.com
+excite.com
+freespeechdebate.com
+guardster.com
+im0-tub-com.yandex.net
+international.gc.ca
+knapsackforhope.org
+libgen.lc
+megaproxy.com
+paralleleconomy.com
+secfirst.org
+shia.org
+tor.calyxinstitute.org
+wluml.org
+xxx.lanl.gov
+yandexwebcache.net

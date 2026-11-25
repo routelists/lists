@@ -1,0 +1,11 @@
+# Domains blocked in MK per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+bglad.com
+feedtheminds.org
+freespeechdebate.com
+gayscape.com
+libgen.lc
+mnr.gov.cn
+mp3.com
+root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
+root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
+socom.mil

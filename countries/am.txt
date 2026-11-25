@@ -1,0 +1,12 @@
+# Domains blocked in AM per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+adl.hayway.org
+betfair.com
+ddosecrets.com
+feedtheminds.org
+forum.mhut.org
+islaminstitut.de
+libgen.lc
+megaproxy.com
+pokerstars.com
+wluml.org
+xxx.lanl.gov

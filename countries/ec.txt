@@ -1,0 +1,16 @@
+# Domains blocked in EC per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+abpr2.railfan.net
+absinth.com
+amoryfortaleza.org
+catabela.com
+ddosecrets.com
+democraciasi.ec
+dialoguemos.ec
+dns.alidns.com
+elecciones2023.cne.gob.ec
+enviarmensajesdetexto.org
+foroeconomiaecuador.com
+ipfs.io
+islaminstitut.de
+libgen.lc
+trafficnews.ec

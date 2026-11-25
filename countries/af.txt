@@ -1,0 +1,6 @@
+# Domains blocked in AF per OONI measurements 2026-10-25..2026-11-24 (https://ooni.org, CC BY 4.0)
+com.cy
+fbcdn.net
+voanews.com
+washingtonpost.com
+xxx.lanl.gov
