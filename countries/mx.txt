@@ -1,4 +1,4 @@
-# Domains blocked in MX per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in MX per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 absinth.com
 amp.cloudflare.com
 astalavista.box.sk
@@ -10,6 +10,7 @@ data.inmujeres.cdmx.gob.mx
 ddosecrets.com
 diagonalperiodico.net
 doh-fi.blahdns.com
+elsur.mx
 excite.com
 feedtheminds.org
 forum.mhut.org
@@ -25,11 +26,9 @@ knapsackforhope.org
 laopinionpuebla.com
 libgen.is
 libgen.lc
-libgen.life
 libgen.rs
 libgen.st
 lingo.com
-malwares.com
 megaproxy.com
 mexico.indymedia.org
 mnr.gov.cn

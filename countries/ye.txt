@@ -1,4 +1,4 @@
-# Domains blocked in YE per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in YE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 ababiil.net
 adenalyoum.com
 al-ahd.net
@@ -9,7 +9,6 @@ almeshkat.net
 amp.cloudflare.com
 bcc.chat
 bglad.com
-bramjzone.com
 centralbank.gov.ye
 champress.net
 cyemen.com
@@ -18,7 +17,6 @@ doh-fi.blahdns.com
 doubleclick.net
 elmaam.net
 excite.com
-faithfreedom.org
 feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
@@ -32,6 +30,7 @@ ipna.gov.ye
 irinn.ir
 justicewomen.com
 knapsackforhope.org
+libgen.fun
 libgen.is
 libgen.rs
 libgen.st
@@ -45,11 +44,9 @@ mofa.gov.ye
 moi.gov.sa
 mot.gov.ye
 mp3.com
-muslima.com
 mwe.gov.ye
 nabdalsharea.com
 newsline-ye.com
-nfdhr.org
 noblogs.org
 ntc.party
 poker.com
@@ -84,4 +81,3 @@ yemenparliament.gov.ye
 yemensaeed.net
 yemenvoice.net
 yrsgisc.gov.ye
-zawgaty.com

@@ -1,4 +1,4 @@
-# Domains blocked in CH per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CH per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1bet.com
 abpr2.railfan.net
 adultfriendfinder.com
@@ -13,9 +13,11 @@ bogus.d2a8n1.rootcanary.net
 casinotropez.com
 coronavirus.app
 covidtracking.com
+darknet.org.uk
 ddosecrets.com
 deepseek.ai
 doh-fi.blahdns.com
+doubleclick.net
 dweb.link
 excite.com
 feedtheminds.org
@@ -48,11 +50,9 @@ mnr.gov.cn
 mp3.com
 noblogs.org
 ntc.party
-partypoker.com
 pingomatic.com
 premaritalsex.info
 presearch.org
-rebrandly.com
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 secfirst.org
@@ -61,11 +61,9 @@ socom.mil
 speeddater.co.uk
 spinpalace.com
 surfeasy.com
-tigerweb.ru
 tipxbet.com
 use-application-dns.net
 venus.com
-vesti.ru
 wirwetten.com
 xbet-5.com
 xxx.lanl.gov

@@ -1,4 +1,4 @@
-# Domains blocked in RU per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in RU per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 15min.lt
@@ -96,7 +96,6 @@ bcc.chat
 bccdc.ca
 beeg.com
 beers.com
-beintheknow.org
 bellingcat.com
 belsat.eu
 belsat.pl
@@ -139,7 +138,6 @@ carnegie.ru
 carnegieendowment.org
 casino.com
 casinotropez.com
-catbox.moe
 catholicsforchoice.org
 caucasustimes.com
 cdn-client.medium.com
@@ -156,13 +154,13 @@ ceskatelevize.cz
 chantelle.com
 cherta.media
 chess.com
+chezasite.com
 chika.aangat.lahat.computer
 christianitytoday.com
 christians4peace.com
 chronicles.media
 church.ua
 cia.gov
-circumcision.org
 citizenlab.ca
 climaterealityproject.org
 cnews.fr
@@ -314,9 +312,11 @@ freespeechdebate.com
 freevpnplanet.com
 fri-gate.org
 fronterafundrgv.org
+fsf.org
 ft.com
 ftchinese.com
 fuckingfreemovies.com
+fvd.nl
 gagadget.com
 gambling.com
 gaycity.love
@@ -328,6 +328,7 @@ geo.orthodoxy.ru
 getdrupe.com
 getlantern.org
 getoutline.org
+getsession.org
 gijn.org
 girlsnotbrides.org
 glaad.org
@@ -654,6 +655,7 @@ omsk.com
 omvesti.ru
 onlinegambling.com
 ooni.torproject.org
+oovoo.com
 open.substack.com
 openmedia.io
 openrussia.org
@@ -666,7 +668,6 @@ out.com
 outrightinternational.org
 ovdinfo.org
 ow.ly
-oxfam.org
 pacom.mil
 panties.com
 pap.pl
@@ -936,7 +937,7 @@ towleroad.com
 transequality.org
 transparency.org
 transparency.org.ru
-trisquel.info
+trendsmap.com
 trust.zone
 truthnet.org
 trv-science.org
@@ -1002,7 +1003,6 @@ vpnproxymaster.com
 vpnredcat.com
 vrouwuitdekast.nl
 war.hvylya.net
-wasabiwallet.io
 washingtonpost.com
 we.riseup.net
 wearerepost.com
@@ -1015,6 +1015,7 @@ wftucentral.org
 whatsapp.com
 wickr.com
 wikianime.club
+wikileaks.org
 witness.org
 wluml.org
 womanadvice.ru
@@ -1057,7 +1058,6 @@ z.zcatt.net
 zagony.ru
 zaprava.ru
 zaxid.net
-zcatt.cc
 zeit.de
 zenvpn.net
 zhurnal.lib.ru

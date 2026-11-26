@@ -1,4 +1,5 @@
-# Domains blocked in IT per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IT per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+0dt.net
 123movies.is
 123movies.to
 123savemp3.net
@@ -17,6 +18,7 @@ altadefinizione01.cool
 altadefinizione01.top
 amp.cloudflare.com
 archive.ph
+atdhe24.tv
 audio.axomlive.com
 audiopoisk.com
 avxhome.in
@@ -41,7 +43,6 @@ cineblog01hd.net
 cinemano.info
 cinemasubito.com
 conexaomp3.com
-cricfree.live
 cricfree.sc
 cricfree.sx
 cricfree.tv
@@ -173,7 +174,6 @@ mp3cool.me
 mp3cool.pro
 mp3cool2.org
 mp3fiesta.com
-mp3freex.com
 mp3fusion.net
 mp3int.com
 mp3lemon.net
@@ -212,6 +212,7 @@ ororo.tv
 papystreaming.tv
 pdfmag.org
 poker.com
+pokerstars.com
 portalehd.net
 portalzuca.com
 premaritalsex.info
@@ -245,6 +246,7 @@ solarmovie.is
 speeddater.co.uk
 spinpalace.com
 sportingbet.com
+sportp2p.com
 sportsinteraction.com
 sputniknews.cn
 stardelcinema.org

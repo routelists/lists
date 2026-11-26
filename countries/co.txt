@@ -1,4 +1,4 @@
-# Domains blocked in CO per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CO per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 888casino.com
 absinth.com
 acoso.online
@@ -15,7 +15,6 @@ comohacerseunaborto.com
 covid19.minsalud.gov.co
 ddosecrets.com
 doh-fi.blahdns.com
-elmundo.com
 esperanzagomez.org
 excite.com
 feedtheminds.org
@@ -34,7 +33,6 @@ inetprivacy.com
 islaminstitut.de
 jackpotcitycasino1.com
 justicewomen.com
-kcna.kp
 knapsackforhope.org
 lalinternaazul.info
 libgen.is

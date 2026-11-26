@@ -1,4 +1,4 @@
-# Domains blocked in MD per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in MD per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 888casino.com
 abpr2.railfan.net
 actiunea2012.ro
@@ -13,6 +13,7 @@ deca.md
 doh-fi.blahdns.com
 feedtheminds.org
 filecrop.com
+fondfbr.ru
 game.portal.md
 grenada.md
 justicewomen.com
@@ -41,4 +42,6 @@ sportsinteraction.com
 sputnikglobe.com
 sputniknews.com
 surfeasy.com
+tvc.ru
 veracrypt.fr
+vesti.ru

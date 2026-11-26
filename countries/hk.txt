@@ -1,4 +1,4 @@
-# Domains blocked in HK per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in HK per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 8964museum.com
 af.mil
 alliancecanadahk.com
@@ -10,16 +10,15 @@ buddhistmantra.hk
 canna.to
 civicparty.hk
 darknet.org.uk
+darpa.mil
 ddosecrets.com
 demosisto.hk
 diaoyuislands.org
 doh-fi.blahdns.com
 earth.org.hk
-edge-chat.instagram.com
 excite.com
 fbl.itb.gov.hk
 feedtheminds.org
-flowhongkong.net
 forum.mhut.org
 freespeechdebate.com
 fronterafundrgv.org
@@ -31,7 +30,6 @@ hkimperium.com
 hongkonglit.com
 ilga-europe.org
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 jsf.mil
 justicewomen.com
@@ -43,6 +41,7 @@ libgen.st
 lingo.com
 megaproxy.com
 mensluxe.hk01.com
+metrodaily.hk
 mp3.com
 navy.mil
 nazarene.org
@@ -73,7 +72,6 @@ surfychinaz.com
 tgr.org.hk
 thisav.com
 usafa.af.mil
-uscg.mil
 viber.com
 web.ttm.org.hk
 winemaster.com.hk

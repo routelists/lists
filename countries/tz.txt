@@ -1,4 +1,4 @@
-# Domains blocked in TZ per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TZ per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 3wishes.com
 4chan.org
 888casino.com
@@ -23,7 +23,6 @@ bravoporn.com
 briarproject.org
 bridges.torproject.org
 bumble.com
-camdolls.com
 cannaweed.com
 casino.com
 change.org
@@ -73,7 +72,6 @@ inetprivacy.com
 ipetitions.com
 ipfs.io
 ipvanish.com
-islaminstitut.de
 itgetsbetter.org
 joinclubhouse.com
 justicewomen.com
@@ -99,7 +97,6 @@ mkito.com
 mnr.gov.cn
 mp3.com
 muungwana.co.tz
-mwanahalisionline.com
 mwanzotv.com
 nclrights.org
 newnownext.com
@@ -130,6 +127,7 @@ privateinternetaccess.com
 protonvpn.com
 queerty.com
 runescape.com
+scruff.com
 secfirst.org
 secondlife.com
 sex.com
@@ -148,10 +146,12 @@ telegra.ph
 telegram.me
 telegram.org
 thegailygrind.com
+thetrevorproject.org
 thunder.free-signal.com
 tinder.com
 totaljerkface.com
 transequality.org
+transgendermap.com
 tumblr.com
 tunnelbear.com
 twitter.com
@@ -159,6 +159,7 @@ tx.me
 upload.twitter.com
 video.twimg.com
 wluml.org
+worldofwarcraft.com
 x.com
 xhamster.com
 xnxx.com

@@ -1,4 +1,4 @@
-# Domains blocked in AE per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1337x.to
 26sep.net
 4chan.org
@@ -63,7 +63,6 @@ bumble.com
 buydutchseeds.com
 casino.com
 casinotropez.com
-cawtar.org
 cbs.gov.il
 cdns.grindr.com
 change.org
@@ -86,6 +85,7 @@ feeld.co
 gambling.com
 gayscape.com
 gc4hr.org
+geti2p.net
 gohod.net
 goldenpalace.com
 grindr.com
@@ -116,6 +116,7 @@ justicewomen.com
 khabaragency.net
 khilafah.net
 lgbt.foundation
+lgbtarabic.com
 lgbtmap.org
 lgbtqnation.com
 literotica.com
@@ -125,6 +126,7 @@ mahdi-alumma.com
 masralarabia.com
 meemmagazine.net
 meetme.com
+megaproxy.com
 mepanorama.net
 middleeasteye.net
 motabaat.com
@@ -168,7 +170,9 @@ safervpn.com
 samesexmarriage.ca
 sasapost.com
 scruff.com
+secfirst.org
 secure.hi5.com
+sexetc.org
 sharekomry.com
 singlewindow.gov.qa
 slotland.com

@@ -1,4 +1,4 @@
-# Domains blocked in IQ per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IQ per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1337x.to
 3wishes.com
 4chan.org
@@ -16,6 +16,7 @@ al-nnas.com
 al-shia.blog.ir
 albadeeliraq.com
 albasrah.net
+allthefallen.moe
 alt.com
 altaakhipress.com
 americannaziparty.com
@@ -25,6 +26,7 @@ app.element.io
 aqaedalshia.com
 arabianchicks.com
 arabiclgbt.blogspot.com
+archive.is
 archive.ph
 assabeel.net
 astalavista.box.sk
@@ -79,7 +81,6 @@ hustler.com
 ikhwantube.com
 ikhwanwiki.com
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 instaview.me
 iqtp.org
@@ -89,7 +90,6 @@ iraqi.dk
 iraqjobtender.com
 iraqueer.org
 islamicity.com
-islaminstitut.de
 islamion.com
 justicewomen.com
 katcr.to
@@ -154,11 +154,11 @@ rargb.to
 rights-iq.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
-rtr-planeta.com
 russia.tv
 rutube.ru
 saidshuhada.com
 satp.org
+scribd.com
 scruff.com
 secfirst.org
 sex.com

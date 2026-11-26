@@ -1,5 +1,4 @@
-# Domains blocked in TW per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
-abpr2.railfan.net
+# Domains blocked in TW per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 aec.gov.tw
 alibaba-tw.com
 amp.cloudflare.com
@@ -28,6 +27,7 @@ islaminstitut.de
 iwomenweb.org.tw
 justicewomen.com
 kairos.news
+kcna.kp
 knapsackforhope.org
 libgen.is
 libgen.lc
@@ -40,7 +40,6 @@ mp3.com
 myfone.com.tw
 noblogs.org
 ntc.party
-organicshops.cc
 pansci.tw
 premaritalsex.info
 presearch.org

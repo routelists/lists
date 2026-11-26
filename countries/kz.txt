@@ -1,4 +1,4 @@
-# Domains blocked in KZ per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in KZ per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 12vpx.com
 1337x.to
 15minut.org
@@ -112,7 +112,6 @@ hornet.com
 hotspotshield.com
 hunafa.com
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 ipetitions.com
 ipvanish.com
@@ -134,6 +133,7 @@ knews.kg
 knpk.kz
 kucoin.com
 kz.tsargrad.tv
+kz24.online
 le-vpn.com
 lgbtnewsnow.org
 libgen.is
@@ -161,6 +161,7 @@ monacogoldcasino.com
 moviesarena.com
 moviez.kz
 mp3.com
+mrpvpn.com
 msn.com
 mullvad.net
 mybrowservpn.com
@@ -198,7 +199,6 @@ privatevpn.com
 protonvpn.com
 purevpn.com
 qantar2022.org
-qhnews.com
 regnum.ru
 respublika.kz.media
 ringvpn.com
@@ -263,7 +263,6 @@ vpnmentor.com
 vpnside.com
 vpntracker.com
 vpnuk.net
-vtk.kz
 vyprvpn.com
 wasabiwallet.io
 wikihow.com
@@ -278,7 +277,6 @@ xvideos.com
 xxx.lanl.gov
 yandexwebcache.net
 youporn.com
-zagony.ru
 zenmate.com
 zenvpn.net
 zoogvpn.com

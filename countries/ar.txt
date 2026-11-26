@@ -1,4 +1,4 @@
-# Domains blocked in AR per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AR per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 888casino.com
 absinth.com
 agendadelasmujeres.com.ar
@@ -8,6 +8,7 @@ bcc.chat
 betfair.com
 bogus.d2a8n1.rootcanary.net
 casino.com
+casinotropez.com
 ddosecrets.com
 diarioextra.com.ar
 diarionuevodia.com.ar
@@ -21,7 +22,6 @@ freespeechdebate.com
 gaytoday.com
 genderindex.org
 im0-tub-com.yandex.net
-implantinfo.com
 inbox.com
 inetprivacy.com
 infojusnoticias.gov.ar
@@ -41,7 +41,6 @@ mp3.com
 noblogs.org
 ntc.party
 onu.org.ar
-pokerstars.com
 premaritalsex.info
 presearch.org
 secfirst.org

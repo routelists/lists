@@ -1,4 +1,4 @@
-# Domains blocked in PL per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in PL per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 188bet.com
 1xbet.com
 888casino.com
@@ -37,7 +37,6 @@ im0-tub-com.yandex.net
 implantinfo.com
 inetprivacy.com
 jackpotcitycasino1.com
-jsf.mil
 justicewomen.com
 kat.am
 kc.gov.by
@@ -75,7 +74,6 @@ ria.ru
 rivalo.com
 riverbelle.com
 royalvegas.com
-rt.com
 rtr-planeta.com
 russian.rt.com
 sbobet.com
@@ -94,7 +92,6 @@ szpila.blackblogs.org
 tonybet.com
 twin.com
 unibet.com
-vesti.ru
 vgtrk.ru
 williamhill.com
 wluml.org

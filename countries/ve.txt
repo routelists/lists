@@ -1,4 +1,4 @@
-# Domains blocked in VE per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in VE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 6topoder.com
 aguacateverde.com
 aguacateverde1.blogspot.com
@@ -11,6 +11,7 @@ api.tunnelbear.com
 apusb.usb.ve
 armando.info
 asambleanacional.gob.ve
+baidu.com
 bcc.chat
 betfair.com
 betternet.co
@@ -40,6 +41,7 @@ dolartoday.com
 dolartoday.info
 dolartoday.org
 dollar.nu
+ectaco.com
 elecciones2024venezuela.com
 elnorte.com.ve
 es.statista.com
@@ -122,7 +124,6 @@ privateinternetaccess.com
 privatevpn.com
 protonvpn.com
 psiphon.ca
-puntodecorte.net
 purevpn.com
 pvenezuela.com
 quelacreo.com
@@ -131,9 +132,9 @@ resultadosconvzla.com
 resultadospresidencialesvenezuela2024.com
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
+search.brave.com
 secfirst.org
 shia.org
-socom.mil
 speedify.com
 spinpalace.com
 sportsinteraction.com

@@ -1,4 +1,4 @@
-# Domains blocked in MY per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in MY per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 32red.com
@@ -34,6 +34,7 @@ eztv.re
 fanfiction.net
 financetwitter.com
 forum.mhut.org
+freedns.afraid.org
 freespeechdebate.com
 gambling.com
 gaystarnews.com
@@ -64,6 +65,7 @@ libgen.lc
 libgen.rs
 libgen.st
 limetorrents.lol
+limetorrents.pro
 lingo.com
 linguamatix.com
 literotica.com
@@ -103,6 +105,7 @@ rargb.to
 royalvegas.com
 saidila.com
 samudera.my
+seapa.org
 secfirst.org
 sex.com
 sexandu.ca

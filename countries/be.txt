@@ -1,9 +1,10 @@
-# Domains blocked in BE per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in BE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 1tv.ru
 888casino.com
 adultfriendfinder.com
+amnesty.org
 amp.cloudflare.com
 banthis.tv
 bbm.com
@@ -15,8 +16,8 @@ briarproject.org
 casino.com
 casinotropez.com
 ddosecrets.com
-dit.whatsapp.net
 doh-fi.blahdns.com
+doh.dns.sb
 doubleclick.net
 excite.com
 feedtheminds.org
@@ -44,9 +45,7 @@ mnr.gov.cn
 mp3.com
 noblogs.org
 ntc.party
-originalelf.com
 pingomatic.com
-pinkcupid.com
 premaritalsex.info
 presearch.org
 secfirst.org
@@ -64,3 +63,4 @@ wluml.org
 x1337x.eu
 xxx.lanl.gov
 yandexwebcache.net
+yts.mx

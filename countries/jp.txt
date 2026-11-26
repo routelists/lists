@@ -1,9 +1,10 @@
-# Domains blocked in JP per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in JP per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 bcc.chat
 bogus.d2a8n1.rootcanary.net
 casinotropez.com
 ddosecrets.com
+dnsleaktest.com
 doh-fi.blahdns.com
 excite.com
 feedtheminds.org
@@ -31,6 +32,7 @@ shia.org
 socom.mil
 speeddater.co.uk
 spinpalace.com
+sportsinteraction.com
 surfeasy.com
 wluml.org
 xxx.lanl.gov

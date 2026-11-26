@@ -1,4 +1,4 @@
-# Domains blocked in TH per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TH per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 037hdmovie.com
 10bet.com
 188bet.com
@@ -25,7 +25,6 @@ casinotropez.com
 coinex.com
 coquette.com
 covid19.moph.go.th
-dailymail.co.uk
 danbooru.donmai.us
 dateinasia.com
 dedbit.com
@@ -61,7 +60,6 @@ im0-tub-com.yandex.net
 imp.free.fr
 implantinfo.com
 inetprivacy.com
-int.soccerway.com
 islaminstitut.de
 isranews.org
 justicewomen.com
@@ -89,7 +87,6 @@ monacogoldcasino.com
 movie2uhd.com
 mp3.com
 mrcmekong.org
-myabortionstory.tumblr.com
 neonjoint.com
 nhentai.net
 nmrc.org

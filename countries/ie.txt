@@ -1,4 +1,4 @@
-# Domains blocked in IE per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
 amp.cloudflare.com
 archive.is
@@ -7,7 +7,6 @@ bogus.d2a8n1.rootcanary.net
 deepseek.ai
 dit.whatsapp.net
 doh-fi.blahdns.com
-doubleclick.net
 excite.com
 feedtheminds.org
 forum.mhut.org
@@ -19,7 +18,6 @@ inetprivacy.com
 jsf.mil
 justicewomen.com
 knapsackforhope.org
-lens.google.com
 libgen.is
 libgen.lc
 libgen.rs
@@ -32,7 +30,6 @@ noblogs.org
 ntc.party
 partypoker.com
 pingomatic.com
-premaritalsex.info
 presearch.org
 qhnews.com
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
@@ -41,10 +38,10 @@ rt.com
 secfirst.org
 shia.org
 socom.mil
+sputnikglobe.com
 sputniknews.com
 surfeasy.com
 tvc.ru
 wluml.org
-xinhuanet.com
 xxx.lanl.gov
 yandexwebcache.net

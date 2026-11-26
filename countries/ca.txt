@@ -1,4 +1,4 @@
-# Domains blocked in CA per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CA per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 4k.new4k.cc
 4k.new4k.net
 6.aircel.me
@@ -44,7 +44,6 @@ lingo.com
 live.aircel.me
 live.aircell.cc
 mag7.abctv.me
-malwares.com
 mask-h2.icloud.com
 mask.icloud.com
 megaproxy.com

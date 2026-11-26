@@ -1,4 +1,4 @@
-# Domains blocked in EE per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in EE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
 amp.cloudflare.com
 archive.is
@@ -18,7 +18,6 @@ libgen.is
 libgen.lc
 limetorrents.pro
 lingo.com
-lokinet.org
 megaproxy.com
 mp3.com
 noblogs.org
@@ -29,7 +28,6 @@ presearch.org
 ria.ru
 rtr-planeta.com
 secfirst.org
-shia.org
 spinpalace.com
 surfeasy.com
 xxx.lanl.gov

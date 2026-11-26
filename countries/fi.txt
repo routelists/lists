@@ -1,6 +1,5 @@
-# Domains blocked in FI per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in FI per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
-af.mil
 amp.cloudflare.com
 archive.is
 archive.ph
@@ -14,20 +13,18 @@ excite.com
 feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
-globalvoices.org
 im0-tub-com.yandex.net
-imrussia.org
 inetprivacy.com
 jsf.mil
 justicewomen.com
 khilafah.net
-knapsackforhope.org
 lgbtnewsnow.org
 libgen.is
 libgen.lc
 libgen.rs
 limetorrents.pro
 lingo.com
+meddaily.ru
 megaproxy.com
 mp3.com
 noblogs.org
@@ -36,21 +33,25 @@ peaceplea.org
 poligon.media
 presearch.org
 qhnews.com
+romb.tv
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 rosdep.org
 rtp.pt
+ru-news.us
 ru.rfi.fr
+rus.azattyq.org
 rusplt.ru
 sakharov.world
 secfirst.org
+seed4.me
+seznamzpravy.cz
 shia.org
 slovodel.com
 socom.mil
 sota.vision
-speeddater.co.uk
 surfeasy.com
+vgtrk.ru
 wluml.org
 xxx.lanl.gov
 yandexwebcache.net
-ymca.int

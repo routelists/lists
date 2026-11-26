@@ -1,4 +1,4 @@
-# Domains blocked in EG per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in EG per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 26sep.net
 2fastsurfer.com
 4online-gambling.com
@@ -43,7 +43,6 @@ aljazeera.net
 alkessa.com
 allunblocked.com
 almanassa.com
-almarjie-paris.com
 almasirah.net
 almayadeen.net
 almesryoon.com
@@ -61,6 +60,7 @@ amp.cloudflare.com
 ampproject.org
 andalusitas.net
 anhri.net
+anonymizer.secuser.com
 anonymous-proxy-servers.net
 anonymouse.org
 ansarweb.net
@@ -73,11 +73,10 @@ apis.google.com
 ar.eohr.org
 arab48.com
 arabi21.com
+arabic.musawah.org
 arabiclgbt.blogspot.com
 arabicpost.net
-arabnet5.com
 arabsolaa.com
-arabyarea.com
 arabyexpressnews.com
 archive.ubuntu.com
 ardmasr.com
@@ -85,13 +84,10 @@ arij.net
 asrararabiya.com
 assabeel.net
 aswatmag.com
-aswatmasriya.com
 atozproxy.com
-awttar.com
 baheyya.blogspot.com
 balkans.aljazeera.net
 bcc.chat
-beer.com
 benaaparty.com
 beyondexgay.com
 bglad.com
@@ -109,7 +105,6 @@ cencos.org
 centcom.mil
 cesr.org
 cexx.org
-chantelle.com
 cirp.org
 clients3.google.com
 cluw.org
@@ -131,12 +126,10 @@ date.com
 ddosecrets.com
 delicates.co.uk
 detectportal.firefox.com
-dit-inc.us
 diwan.gov.qa
 doc.aljazeera.net
 dogpile.com
 doh-fi.blahdns.com
-dolopo.net
 dontfilter.us
 dotmsr.com
 drugsense.org
@@ -177,7 +170,6 @@ expressvpn.com
 f-secure.com
 farfeshplus.com
 fark.com
-fastusaproxy.com
 feedtheminds.org
 fj-p.com
 fjponline.com
@@ -187,7 +179,6 @@ freearabsexx.com
 freehomepage.com
 freenom.link
 freeproxy.ru
-freeproxylists.net
 freeservers.com
 freespeechdebate.com
 freevpn.pw
@@ -198,7 +189,6 @@ fuckingfreemovies.com
 gabhasalafia.com
 gamalheshmat.com
 gamaltaha.wordpress.com
-gatherproxy.com
 gawker.com
 gayegypt.com
 gayscape.com
@@ -207,14 +197,12 @@ genderation.xyz
 getdrupe.com
 gharbiaonline.com
 ghost.org
-gimmeproxy.com
 gizlibaglanti.com
 glaad.org
 globalfire.tv
 globalr2p.org
 godalone.org
 goldenfrog.com
-granma.cu
 greennet.org.uk
 gsrc-mena.org
 guardster.com
@@ -244,7 +232,6 @@ hrdoegypt.org
 hrea.org
 hrlibrary.umn.edu
 hsje.org
-http-tunnel.com
 huffpost.com
 humanrightsfirst.org
 humum.net
@@ -259,7 +246,6 @@ idea.int
 iea.org
 ifge.org
 ifj.org
-ihr.org
 iico.org
 ikhwan.net
 ikhwanpress.com
@@ -276,11 +262,12 @@ institute.aljazeera.net
 ipjetable.net
 ipvanish.com
 irna.ir
-isa.gov.il
 isiswomen.org
 islameyat.com
+ispunblock.com
 jackdaniels.com
 jadaliyya.com
+jeem.me
 jesussaves.cc
 judaism.com
 judaismconversion.org
@@ -290,11 +277,9 @@ keptprivate.com
 khaberni.com
 khatab38.blogspot.com
 khilafah.net
-khrp.org
 klmty.net
 knapsackforhope.org
 koorabia.com
-korabia.com
 kremlin.ru
 kwirmedia.com
 lambdalegal.org
@@ -302,6 +287,7 @@ latimes.com
 lbry.com
 lchr-eg.org
 learning.aljazeera.net
+legal-agenda.com
 lesbiansubmission.com
 letsencrypt.org
 lgbtarabic.com
@@ -312,7 +298,6 @@ libgen.is
 libgen.lc
 libgen.rs
 libgen.st
-likud.org.il
 limetorrents.pro
 lingo.com
 linkmetube.com
@@ -346,10 +331,10 @@ metacrawler.com
 microsofttranslator.com
 middleeasteye.net
 miniprox.com
+misrdigital.blogspirit.com
 misrlinks.com
 mizzima.com
 mnr.gov.cn
-mod.gov.il
 moheet.com
 mom-rsf.org
 monacogoldcasino.com
@@ -358,12 +343,14 @@ mousematrix.com
 movizland.online
 mp3.com
 mubasher.aljazeera.net
+muhammadanism.com
 mykalimag.com
 nanoproxy.de
 nato.int
 navy.mil
 nclrights.org
 networkcheck.kde.org
+newipnow.com
 newnownext.com
 nilesports.com
 nmcheck.gnome.org
@@ -374,6 +361,7 @@ noonpost.org
 nordvpn.com
 ntc.party
 nvpn.net
+nwrcegypt.org
 ohmynews.com
 oicc.org
 omamh.com
@@ -384,6 +372,7 @@ onlybingo.com
 oovoo.com
 openarab.net
 openpgp.org
+openvpn.net
 opera.com
 originalelf.com
 orthodoxconvert.info
@@ -433,7 +422,6 @@ reporter-ohne-grenzen.de
 repubblica.com
 revolution25january.com
 riftgame.com
-righttodie.ca
 riverbelle.com
 roblox.com
 rocketvpnapp.com
@@ -441,7 +429,7 @@ rockstargames.com
 rollitup.org
 royalvegas.com
 rsf.org
-rxmarijuana.com
+russia.tv
 saadahpress.net
 sakhr.com
 samesexmarriage.ca
@@ -465,6 +453,7 @@ shia.org
 siecus.org
 silence.im
 sina.com.cn
+site2unblock.com
 siyassa.org.eg
 slideshare.net
 slotland.com
@@ -474,6 +463,7 @@ southcom.mil
 speeddater.co.uk
 speedify.com
 spinpalace.com
+spysurfing.com
 start.ubuntu.com
 stonewall.org.uk
 stratcom.mil
@@ -494,11 +484,10 @@ thedailynewsegypt.com
 thenewkhalij.org
 thepeninsulaqatar.com
 thepiratebay.org
+theregister.co.uk
 tialsoft.com
 tigervpn.com
-tmz.com
 toktokmag.com
-topdrawers.com
 torah.org
 torproject.org
 tournews.ar.nf
@@ -513,6 +502,7 @@ turkpress.co
 tv.series4watch.online
 typepad.com
 u4.no
+ukproxyserver.org
 ultimatebirthcontrol.com
 ultrasawt.com
 ultrasurf.us
@@ -560,3 +550,4 @@ zawia3.com
 zendproxy.com
 zenvpn.net
 zeronet.io
+zzn.com

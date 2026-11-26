@@ -1,4 +1,4 @@
-# Domains blocked in IN per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IN per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 2020sikhreferendum.org
@@ -8,7 +8,6 @@
 5movierulz.lgbt
 888casino.com
 9gag.tv
-abpr2.railfan.net
 acefile.co
 adultfriendfinder.com
 adultwork.com
@@ -21,6 +20,7 @@ amp.cloudflare.com
 amunra1.one
 animeflix.live
 anonymouse.org
+api.protonvpn.ch
 apniisp.com
 appairbrush.com
 apusapps.com
@@ -38,18 +38,19 @@ beyondexgay.com
 bglad.com
 bigo.tv
 bigwinner.in
+binance.com
 bitfinex.com
 bogus.d2a8n1.rootcanary.net
 bollyextreme.com
 bolnews.com
 briarproject.org
+buydomains.com
 buzzheavier.com
 camcard.com
 camscanner.com
 censusindia.gov.in
 citizensinchargefoundation.org
 clarionproject.org
-cloud.mail.ru
 cmcm.com
 coinmarketcap.com
 collegehumor.com
@@ -73,18 +74,17 @@ du-recorder.com
 dubai2020.us
 dunyanews.tv
 dzen.ru
-eng.mod.gov.cn
 environicsindia.in
 envis.nic.in
 estrongs.com
 excite.com
 eztv.ag
 eztv.re
+fabulous.com
 feedtheminds.org
 flirthookup.com
 forum.mhut.org
 freespeechdebate.com
-fteproxy.org
 fuckingfreemovies.com
 gayscape.com
 geo.tv
@@ -102,7 +102,6 @@ http-tunnel.com
 ihago.net
 ihs.gov
 im0-tub-com.yandex.net
-imgbox.com
 implantinfo.com
 imqq.com
 indiahatelab.com
@@ -116,7 +115,6 @@ kashmirawareness.org
 kashmircivitas.com
 kat.am
 katcr.to
-kcna.kp
 khilafah.net
 kickasstorrents.to
 kikass.to
@@ -126,6 +124,7 @@ kraken.com
 ksczma.karnataka.gov.in
 kwai.com
 lalamove.com
+lesbiansubmission.com
 libgen.is
 libgen.lc
 libgen.li
@@ -141,7 +140,6 @@ lushstories.com
 m.gofun88.in
 mail.qq.com
 mail.yandex.ru
-malwares.com
 mask-h2.icloud.com
 mask.icloud.com
 megaproxy.com
@@ -165,7 +163,6 @@ ntc.party
 nutaku.net
 ok.ru
 online-dating.org
-onlybingo.com
 originalelf.com
 parallel-app.com
 pb13.org
@@ -177,12 +174,15 @@ pinkcupid.com
 piratebay.live
 playboy.com
 pof.com
+poker.com
+pokerstars.com
 polymarket.com
 popularfrontindia.org
 pornhub.com
 premaritalsex.info
 presearch.org
 pun2k.org
+purevpn.com
 qhnews.com
 qqplayer.net
 rajabets1.com
@@ -196,16 +196,13 @@ rlpindia.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 royalvegas.com
-rutube.ru
 sadapind.org
 samaa.tv
 samesexmarriage.ca
 savefrom.net
 secfirst.org
 secure.avaaz.org
-sendspace.com
 sex.com
-sexandu.ca
 shia.org
 sikhsarenotindian.org
 sikhsforjustice.org
@@ -214,6 +211,7 @@ sina.com.cn
 singoldating.com
 socom.mil
 spankbang.com
+speed-new.com
 speeddater.co.uk
 spinpalace.com
 sports.samaa.tv

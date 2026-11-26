@@ -1,5 +1,6 @@
-# Domains blocked in EC per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in EC per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
+afreesms.com
 amoryfortaleza.org
 amp.cloudflare.com
 animefenix.com
@@ -12,8 +13,10 @@ democraciasi.ec
 dialoguemos.ec
 doh-fi.blahdns.com
 ecuadorenvivo.com
+edina.com.ec
 elecciones2023.cne.gob.ec
 enviarmensajesdetexto.org
+excite.com
 feedtheminds.org
 foroeconomiaecuador.com
 freespeechdebate.com
@@ -30,10 +33,11 @@ noblogs.org
 ntc.party
 pandrama.com
 presearch.org
-qhnews.com
 secfirst.org
+shia.org
 spinpalace.com
 surfeasy.com
 trafficnews.ec
 vimeo.com
 xxx.lanl.gov
+yandexwebcache.net

@@ -1,4 +1,4 @@
-# Domains blocked in IR per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IR per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1337x.to
 1tv.ru
 20speed.co
@@ -192,6 +192,7 @@ cervezas.com
 ceskatelevize.cz
 ch1.cc
 chantelle.com
+chekhabar.com
 chinatimes.com
 christianity.com
 christianitytoday.com
@@ -199,6 +200,7 @@ cia.gov
 cirp.org
 clipseksi.com
 cloudflare-dns.com
+cloudflare-ech.com
 clubhouse.com
 clubhouseapi.com
 cocaine.org
@@ -682,14 +684,18 @@ noblogs.org
 nordvpn.com
 nourizadeh.com
 novayapolsha.pl
+nsdapao.info
 nshrs.com
 ntc.party
 nurizad.info
+o0.ingest.sentry.io
 observers.rfi.fr
 oe24.at
 ohmynews.com
 oikoumene.org
 okcupid.com
+omidnameh.com
+online-dating.org
 onlinegambling.com
 onlybingo.com
 onlyfans.com
@@ -853,7 +859,6 @@ shahvani.com
 shahvani.site
 shahvatsaraa.com
 shazam.com
-shekaf.org
 shetabdehi.com
 shia.org
 shoe.org
@@ -954,6 +959,7 @@ tourjan.com
 towleroad.com
 transsexual.org
 trashy.com
+trendsmap.com
 tribunezamaneh.com
 truecaller.com
 trustvpn.me
@@ -997,6 +1003,7 @@ video-preview.s3.yandex.net
 video.cdninstagram.com
 video.twimg.com
 videochums.com
+videolan.org
 vimeo.com
 vk.com
 voanews.com
@@ -1016,7 +1023,6 @@ weebly.com
 weedmaps.com
 weibo.com
 well.com
-westernunion.com
 wevpn.pw
 whatsapp.com
 wikileaks.org

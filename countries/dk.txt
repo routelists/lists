@@ -1,10 +1,11 @@
-# Domains blocked in DK per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in DK per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1tv.ru
 amp.cloudflare.com
 bcc.chat
 bogus.d2a8n1.rootcanary.net
 ddosecrets.com
 doh-fi.blahdns.com
+excite.com
 eztv.ag
 eztv.re
 im0-tub-com.yandex.net
@@ -22,9 +23,7 @@ presearch.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 rt.com
-secfirst.org
 socom.mil
-speeddater.co.uk
 spinpalace.com
 sputniknews.cn
 sputniknews.com
@@ -32,4 +31,3 @@ surfeasy.com
 thepiratebay.org
 vgtrk.ru
 wluml.org
-xxx.lanl.gov

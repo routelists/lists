@@ -1,4 +1,4 @@
-# Domains blocked in LY per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in LY per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 banthis.tv
 bcc.chat
@@ -15,6 +15,7 @@ freespeechdebate.com
 gayscape.com
 ikhwan.net
 im0-tub-com.yandex.net
+implantinfo.com
 inetprivacy.com
 justicewomen.com
 knapsackforhope.org
@@ -27,6 +28,7 @@ libyamazigh.org
 mailinator.com
 megaproxy.com
 mp3.com
+multaqa.org
 noblogs.org
 ntc.party
 onearabworld.blog.com

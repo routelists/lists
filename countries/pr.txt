@@ -1,4 +1,4 @@
-# Domains blocked in PR per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in PR per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 bcc.chat
 bogus.d2a8n1.rootcanary.net

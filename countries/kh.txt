@@ -1,13 +1,14 @@
-# Domains blocked in KH per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in KH per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
 account.proton.me
+amnesty.org
 amp.cloudflare.com
 banthis.tv
 bcc.chat
 cambodiadaily.com
 camnews.org
-carafem.org
 ccimcambodia.org
+cdn.fbsbx.com
 change.org
 creativecommons.org
 ddosecrets.com
@@ -42,7 +43,6 @@ justassociates.org
 justicewomen.com
 kamnotra.io
 khmernote.com
-kick.com
 knapsackforhope.org
 lalgbtcenter.org
 lantern.io
@@ -73,6 +73,7 @@ privatevpn.com
 proton.me
 protonvpn.com
 psiphon.ca
+radiofreel.gitlab.io
 reproductiverights.org
 resurj.org
 rfa.org
@@ -85,7 +86,6 @@ sexandu.ca
 spys.one
 static.xx.fbcdn.net
 staticxx.facebook.com
-status.im
 strongvpn.com
 surfeasy.com
 surfshark.com
@@ -96,17 +96,19 @@ ticambodia.org
 torproject.org
 transequality.org
 transgendermap.com
+trustvpn.me
 ultimate-anonymity.com
 ultravpn.com
 unfe.org
+veracrypt.fr
 vodenglish.news
 vodhotnews.com
 vodkhmer.news
+vpn-api.proton.me
 vpngate.net
 web.facebook.com
 whatsapp.com
 wluml.org
-womenpeacemakersprogram.org
 xvideos.com
 xxx.lanl.gov
 yellowhammerfund.org

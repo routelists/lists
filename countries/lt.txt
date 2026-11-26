@@ -1,4 +1,4 @@
-# Domains blocked in LT per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in LT per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 365sb.com
 888casino.com
 888sport.com
@@ -23,7 +23,6 @@ ipfs.io
 justicewomen.com
 knapsackforhope.org
 libgen.is
-libgen.life
 libgen.rs
 libgen.st
 lingo.com
@@ -39,7 +38,6 @@ partypoker.com
 pokerstars.com
 premaritalsex.info
 presearch.org
-quora.com
 riverbelle.com
 royalvegas.com
 secfirst.org

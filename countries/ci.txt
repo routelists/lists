@@ -1,4 +1,5 @@
-# Domains blocked in CI per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CI per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+amp.cloudflare.com
 bcc.chat
 freespeechdebate.com
 gayscape.com
@@ -7,6 +8,7 @@ inetprivacy.com
 ivoirebusiness.net
 justicewomen.com
 knapsackforhope.org
+livestream.com
 megaproxy.com
 presearch.org
 secfirst.org

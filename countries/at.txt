@@ -1,4 +1,4 @@
-# Domains blocked in AT per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AT per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 1tv.ru
 abpr2.railfan.net
 amp.cloudflare.com
@@ -19,7 +19,6 @@ justicewomen.com
 kinox.to
 knapsackforhope.org
 libgen.is
-libgen.life
 libgen.rs
 libgen.st
 lingo.com

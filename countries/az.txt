@@ -1,4 +1,4 @@
-# Domains blocked in AZ per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AZ per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 350.org
 absinth.com
 abzas.net
@@ -52,7 +52,6 @@ justicewomen.com
 kanal13.tv
 knapsackforhope.org
 libgen.is
-libgen.lc
 libgen.rs
 libgen.st
 lingo.com

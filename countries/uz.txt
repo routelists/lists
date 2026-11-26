@@ -1,4 +1,4 @@
-# Domains blocked in UZ per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in UZ per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 888casino.com
 abpr2.railfan.net
 absinth.com
@@ -94,7 +94,6 @@ memo.ru
 mp3.com
 muhsinlar.net
 netmap.su
-njal.la
 noblockme.ru
 noblogs.org
 nordvpn.com

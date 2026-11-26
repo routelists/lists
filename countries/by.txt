@@ -1,4 +1,4 @@
-# Domains blocked in BY per OONI measurements 2026-10-26..2026-11-25 (https://ooni.org, CC BY 4.0)
+# Domains blocked in BY per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
 34mag.net
 abbabusiness.org
 abfby.org
@@ -48,7 +48,6 @@ globalbelarus.info
 gomelspring.org
 gov.pl
 granma.cu
-honestby.org
 hramada.org
 iapbelarus.org
 ineedhelpby.org
@@ -67,14 +66,12 @@ meduza.io
 minsk.prostitutki-red.in
 mirror.cyberbits.eu
 moladzbel.org
-monacogoldcasino.com
 motolko.help
 nash-dom.info
 nashaniva.com
 naviny.by
 noblogs.org
 ntc.party
-occrp.org
 ooni.torproject.org
 orsha.eu
 palitviazni.info
@@ -118,6 +115,7 @@ torrentbus.com
 torturesbelarus2020.org
 tsepkalo.com
 tsikhanouskaya.org
+tvrain.ru
 udf.name
 virtualbrest.by
 vitebskspring.org
@@ -126,6 +124,7 @@ wluml.org
 zbsb.info
 zerkalo.io
 zharov-lox.telegramproxy.me
+zona.media
 zubr.cc
 zubr.in
 zubr.media
