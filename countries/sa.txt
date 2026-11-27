@@ -1,8 +1,7 @@
-# Domains blocked in SA per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in SA per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 26sep.net
 3arabporn.com
 3wishes.com
-7alalcasino.com
 888casino.com
 abcunderwear.com
 abortionno.org
@@ -11,7 +10,6 @@ aden-post.com
 adenalyoum.com
 adultfriendfinder.com
 advocate.com
-aflamsexhd.com
 ahewar.org
 ahl-alquran.com
 ahwaa.org
@@ -64,12 +62,8 @@ aqaed.com
 ar.islamway.net
 ar.vpnmentor.com
 ara.privateinternetaccess.com
-arabcasinohex.com
 arabi21.com
-arabian-roulette.com
 arabianbetting.com
-arabianchicks.com
-arabicbible.com
 arabicpost.net
 arabseed.me
 arabseed.tv
@@ -98,9 +92,6 @@ btggaming.com
 buydutchseeds.com
 cannaweed.com
 casino.com
-casinoar.com
-casinoarbi.com
-casinoelarab.com
 casinotropez.com
 casinotunisia.com
 cb.gov.qa
@@ -188,7 +179,6 @@ ipredator.se
 ipvanish.com
 irinn.ir
 irna.ir
-isa.gov.il
 islameyat.com
 islaminstitut.de
 islamion.com
@@ -214,7 +204,6 @@ lahjnews.net
 lavaplace.com
 lesbiansubmission.com
 lgbt.foundation
-lgbtarabic.com
 lgbtqnation.com
 libgen.is
 libgen.rs
@@ -225,22 +214,17 @@ literotica.com
 luckynugget.com
 lushstories.com
 mahjooob.com
-mashrobi.com
 mbsmetoo.org
 megaproxy.com
 melody4arab.com
 mepanorama.net
-metrodate.com
 middleeasteye.net
 mirataljazeera.org
 mnr.gov.cn
-mod.gov.il
 monacogoldcasino.com
-moqawama.org
 mossad.gov.il
 mp3.com
 mullvad.net
-mykalimag.com
 nabaa.tv
 neonjoint.com
 news-ksa.com
@@ -287,7 +271,6 @@ saadahpress.net
 sabanews.net
 sahafah24.net
 samesexmarriage.ca
-sasapost.com
 saudiaffairs.net
 saudiahosting.com
 saudicasinos.com
@@ -299,16 +282,11 @@ secure.avaaz.org
 secure.hi5.com
 securevpn.com
 sendspace.com
-series4watch.online
 sex.com
-sexalarab.com
 sexetc.org
-sexjk.com
-sexsaoy.com
 sfsi.org
 shadowsocks.org
 shehabnews.com
-sheikhcasinos.com
 shia.org
 shiavoice.com
 shoe.org
@@ -323,14 +301,12 @@ sports.betway.com
 sportsinteraction.com
 ssfcm.org
 ssrcaw.org
-start.ubuntu.com
 strongvpn.com
 stupidcensorship.com
 submission.org
 sunna.info
 surfeasy.com
 surfshark.com
-syria-dating.com
 syria.press
 tabnak.ir
 tajdeed.org.uk
@@ -339,7 +315,6 @@ telegra.ph
 thawra.sy
 the-good-way.com
 thegailygrind.com
-thegrace.com
 thekoran.com
 thelenspost.com
 thepiratebay.org
@@ -353,7 +328,6 @@ trashy.com
 trtarabi.com
 truecaller.com
 tse1.explicit.bing.net
-tubev.sex
 tunnelbear.com
 turbobit.net
 turk-now.com
@@ -373,13 +347,11 @@ xnxx.com
 xvideos.com
 xvidzz.com
 xxx.lanl.gov
-xxxnxx.me
 xxxvogue.net
 yahosein.com
 yandexwebcache.net
 yemen-24.com
 yemenat.net
 youporn.com
-zawgaty.com
 zbporn.com
 zenvpn.net

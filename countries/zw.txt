@@ -1,4 +1,4 @@
-# Domains blocked in ZW per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in ZW per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 10ngah.com
 amp.cloudflare.com
 bcc.chat
@@ -12,7 +12,6 @@ excite.com
 feedtheminds.org
 forum.mhut.org
 freedns.afraid.org
-harare24.com
 hifa.co.zw
 im0-tub-com.yandex.net
 justicewomen.com

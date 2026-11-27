@@ -1,20 +1,13 @@
-# Domains blocked in NP per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-abcunderwear.com
+# Domains blocked in NP per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 afterellen.com
 amp.cloudflare.com
 bcc.chat
-chantelle.com
-collegehumor.com
 ebaumsworld.com
 edcd.gov.np
 fark.com
 freespeechdebate.com
-freshpair.com
-fuckingfreemovies.com
 gayscape.com
 gaytoday.com
-gotgayporn.com
-hotgaylist.com
 im0-tub-com.yandex.net
 implantinfo.com
 inetprivacy.com
@@ -22,11 +15,8 @@ justicewomen.com
 knapsackforhope.org
 newnownext.com
 secfirst.org
-sex.com
 siecus.org
-slotland.com
 surfeasy.com
 thegailygrind.com
 transsexual.org
-xxlmag.com
 xxx.lanl.gov

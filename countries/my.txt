@@ -1,4 +1,4 @@
-# Domains blocked in MY per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in MY per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 32red.com
@@ -89,6 +89,7 @@ ntc.party
 onlinegambling.com
 onlyfans.com
 pakatanharapan.my
+patheos.com
 pedang.fun
 planetromeo.com
 pof.com

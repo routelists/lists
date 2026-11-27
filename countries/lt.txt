@@ -1,6 +1,5 @@
-# Domains blocked in LT per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in LT per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 365sb.com
-888casino.com
 888sport.com
 afterellen.com
 amp.cloudflare.com
@@ -30,7 +29,6 @@ marathonbet.com
 megaproxy.com
 mnr.gov.cn
 mp3.com
-mybet.com
 noblogs.org
 ntc.party
 paddypower.com

@@ -1,4 +1,4 @@
-# Domains blocked in VN per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in VN per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.to
 360game.vn
 888casino.com
@@ -27,6 +27,7 @@ danquyen.com
 datviet.com
 datviet.free.fr
 diaoconline.vn
+diendan.org
 diendanctm.blogspot.com
 dlive.tv
 doh-fi.blahdns.com
@@ -36,7 +37,6 @@ ethongluan.org
 excite.com
 exodusforvietnam.wordpress.com
 eztv.re
-feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
 hanhtinhtitanic.org

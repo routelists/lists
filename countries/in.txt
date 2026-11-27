@@ -1,13 +1,15 @@
-# Domains blocked in IN per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IN per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 2020sikhreferendum.org
+2adultflashgames.com
 30plusgirls.com
 36winaura88.com
 40somethingmag.com
 5movierulz.lgbt
 888casino.com
 9gag.tv
+abpr2.railfan.net
 acefile.co
 adultfriendfinder.com
 adultwork.com
@@ -20,7 +22,6 @@ amp.cloudflare.com
 amunra1.one
 animeflix.live
 anonymouse.org
-api.protonvpn.ch
 apniisp.com
 appairbrush.com
 apusapps.com
@@ -85,8 +86,10 @@ feedtheminds.org
 flirthookup.com
 forum.mhut.org
 freespeechdebate.com
+fteproxy.org
 fuckingfreemovies.com
 gayscape.com
+gaytoday.com
 geo.tv
 gnnhd.tv
 go-text.me
@@ -102,6 +105,7 @@ http-tunnel.com
 ihago.net
 ihs.gov
 im0-tub-com.yandex.net
+imgbox.com
 implantinfo.com
 imqq.com
 indiahatelab.com
@@ -154,15 +158,16 @@ mofept.gov.pk
 mp3.com
 mstdn.jp
 muskurahat.com
+myrailinfo.in
 ncdc.gov.in
 newgrounds.com
-news.sina.com.cn
 njal.la
 noblogs.org
 ntc.party
 nutaku.net
 ok.ru
 online-dating.org
+onlybingo.com
 originalelf.com
 parallel-app.com
 pb13.org
@@ -196,13 +201,16 @@ rlpindia.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 royalvegas.com
+rutube.ru
 sadapind.org
 samaa.tv
 samesexmarriage.ca
 savefrom.net
 secfirst.org
 secure.avaaz.org
+sendspace.com
 sex.com
+sexandu.ca
 shia.org
 sikhsarenotindian.org
 sikhsforjustice.org
@@ -211,7 +219,6 @@ sina.com.cn
 singoldating.com
 socom.mil
 spankbang.com
-speed-new.com
 speeddater.co.uk
 spinpalace.com
 sports.samaa.tv

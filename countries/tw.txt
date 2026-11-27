@@ -1,4 +1,4 @@
-# Domains blocked in TW per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TW per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 aec.gov.tw
 alibaba-tw.com
 amp.cloudflare.com
@@ -17,7 +17,6 @@ excite.com
 feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
-friend.top1069.com
 gff.org.tw
 hi-on.org.tw
 im0-tub-com.yandex.net
@@ -33,16 +32,16 @@ libgen.is
 libgen.lc
 libgen.rs
 libgen.st
-mask-h2.icloud.com
-mask.icloud.com
 megaproxy.com
 mp3.com
 myfone.com.tw
 noblogs.org
 ntc.party
+organicshops.cc
 pansci.tw
 premaritalsex.info
 presearch.org
+qhnews.com
 secfirst.org
 shia.org
 sojourn.tw

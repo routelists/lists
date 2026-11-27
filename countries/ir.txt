@@ -1,4 +1,4 @@
-# Domains blocked in IR per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IR per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.to
 1tv.ru
 20speed.co
@@ -78,6 +78,7 @@ anonymizer.secuser.com
 anonymouse.org
 anonymsurfen.com
 ansaaar.com
+aop.gov.af
 apis.google.com
 app.element.io
 app.wire.com
@@ -178,7 +179,6 @@ camsoda.com
 cannaweed.com
 cappuccinomag.com
 casino.com
-casinotropez.com
 catbox.moe
 cbsnews.com
 ccel.org
@@ -275,7 +275,6 @@ edaalat.org
 edge-chat.instagram.com
 edge-mqtt.facebook.com
 edition.cnn.com
-efe.com
 eharmony.com
 ehda.sbmu.ac.ir
 element.io
@@ -534,7 +533,6 @@ kala724.net
 kaleme.com
 kampain.info
 kaosgl.org
-kasr-alsanam.com
 katcr.to
 kayhan.london
 kazemjalali.com
@@ -631,9 +629,7 @@ mideastyouth.com
 mihan.net
 mihanblog.com
 milfhunter.com
-mirfetros.com
 miro.medium.com
-mirror.cyberbits.eu
 mizankhabar.net
 mmg.whatsapp.net
 mmoeeni14.blogspot.com
@@ -680,6 +676,7 @@ nex1music.ir
 niacouncil.org
 nifty.org
 nmap.org
+nmrc.org
 noblogs.org
 nordvpn.com
 nourizadeh.com
@@ -787,7 +784,6 @@ raha680.blogfa.com
 rahavard.com
 rahesabz.net
 rahvar120.ir
-rai.it
 rambler.ru
 ranginkaman24.online
 rargb.to

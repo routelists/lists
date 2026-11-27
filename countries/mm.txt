@@ -1,7 +1,8 @@
-# Domains blocked in MM per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in MM per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1221cd.org
 7day.news
 abs.twimg.com
+account.proton.me
 addons.opera.com
 adium.im
 airvpn.org
@@ -9,15 +10,14 @@ alarmmyanmar.org
 amnesty.org
 amnezia.org
 amp.cloudflare.com
-ananzi.co.za
 andproud.net
 anonymouse.org
 api.directory.signal.org
 api.protonvpn.ch
 apwld.org
 arabxnxx.org
-archive.is
 arrka-smaile.blogspot.com
+asianews.it
 asiantribune.com
 athanmyanmar.org
 aungsanu.com
@@ -35,7 +35,6 @@ boycottmyanmar.org
 boylovealone.blogspot.com
 brcgrohingya.org
 bridges.torproject.org
-bsmyanmar.org
 burma-center.org
 burma-projects.org
 burma.ac
@@ -52,12 +51,12 @@ burmese.shannews.org
 business-humanrights.org
 carafem.org
 cdmmyanmar.org
-cdn-client.medium.com
 cdn.fbsbx.com
 cdt.org
 celemedia.club
 change.org
 channelmyanmar.org
+chinforum.org
 citizensclimatelobby.org
 cittasukha.blogspot.com
 cloudflare-dns.com
@@ -79,6 +78,7 @@ dra.gov.mm
 drkokogyi.wordpress.com
 drkokogyi9.wordpress.com
 drlunswe.blogspot.com
+easternlightningmy.wordpress.com
 edge-chat.instagram.com
 edge-mqtt.facebook.com
 educationinmyanmar.blogspot.com
@@ -87,7 +87,6 @@ engenderhealth.org
 english.dvb.no
 eprpinformation.org
 equal-eyes.org
-equalitymyanmar.org
 excite.com
 explorer.ooni.org
 expressvpn.com
@@ -102,7 +101,6 @@ foursquare.com
 freeburmacoalition.blogspot.com
 freedns.afraid.org
 freeexpression.org
-freemyanmarvcd.us
 freespeechdebate.com
 frontiermyanmar.net
 fundtexaschoice.org
@@ -113,12 +111,12 @@ generation96.blogspot.com
 getlantern.org
 getoutline.org
 girlsnotbrides.org
+globalconservation.org
 globalr2p.org
 glsen.org
 gov.nugmyanmar.org
 guerrillagirls.com
 health.com
-health.thithtoolwin.com
 hiburma.net
 hide.me
 hidemyass.com
@@ -126,6 +124,7 @@ hivinfomyanmar.org
 hola.org
 hotspotshield.com
 humanrightsactioncenter.com
+humanrightsfirst.org
 i.instagram.com
 icrw.org
 ihrc.org.uk
@@ -149,7 +148,7 @@ janesdueprocess.org
 jmarshall.com
 jobsinmyanmar.com
 jobsinyangon.com
-journals.thithtoolwin.com
+join.allpornsitespass.com
 justassociates.org
 justiceformyanmar.org
 justicewomen.com
@@ -170,8 +169,12 @@ knapsackforhope.org
 knwo.wordpress.com
 komoethee.blogspot.com
 koshwehtoo.wordpress.com
+kyipaypar.xyz
 lalgbtcenter.org
 lantern.io
+lbry.com
+lbry.org
+letpandailynews.com
 libgen.rs
 libgen.st
 lookaside.facebook.com
@@ -181,7 +184,9 @@ mahana.org.mm
 mail.proton.me
 mailinator.com
 manporn.xxx
+maranathamedia-myanmar.com
 mariestopes.org.uk
+martus.org
 media-arn2-1.cdn.whatsapp.net
 media.fevn1-1.fna.whatsapp.net
 mediafire.com
@@ -200,6 +205,7 @@ mod.nugmyanmar.org
 moe-st.gov.mm
 moe.edu.mm
 moe.nugmyanmar.org
+moeminthar.wordpress.com
 mofa.nugmyanmar.org
 moh.nugmyanmar.org
 mohadm.nugmyanmar.org
@@ -218,15 +224,19 @@ msichoices.org
 mullvad.net
 myanmar-image.com
 myanmar-now.org
+myanmar.anglican.org
 myanmar.savethechildren.net
 myanmarload.com
 myanmarmp3.net
 myanmarnews.net
+myatthura.blogspot.com
 mydoctor.com.mm
 myitkyinanewsjournal.com
 myporngay.com
 narinjara.com
 nationthailand.com
+natthi.wordpress.com
+naymin.blogspot.com
 nclrights.org
 ncsc.gov.mm
 ndi.org
@@ -244,6 +254,7 @@ omct.org
 onekyat.com
 ooni.org
 ooni.torproject.org
+openai.com
 opendevelopmentmekong.net
 opendevelopmentmyanmar.net
 opentech.fund
@@ -255,7 +266,6 @@ paowomensunion.wordpress.com
 patreon.com
 pbs.twimg.com
 pflag.org
-phothutaw.com
 pinknews.co.uk
 plancpills.org
 poker.com
@@ -274,7 +284,6 @@ proton.me
 protonvpn.com
 proxytools.sourceforge.net
 psiphon.ca
-publiuspundit.com
 purevpn.com
 qph.fs.quoracdn.net
 qsbr.fs.quoracdn.net
@@ -286,9 +295,7 @@ reproductiverights.org
 reprolegalhelpline.org
 resurj.org
 rfa.org
-rohingya.org
 rohingyakhobor.com
-rohingyanewsbank.com
 rsf.org
 rtad.gov.mm
 safervpn.com
@@ -304,7 +311,6 @@ secfirst.org
 securevpn.com
 securevpn.im
 seemygf.com
-sendspace.com
 sexandu.ca
 shadowsocks.org
 shia.org
@@ -322,17 +328,12 @@ static.cdninstagram.com
 static.xx.fbcdn.net
 staticxx.facebook.com
 status.im
-steveevergreen.blogspot.com
 strongvpn.com
 surfeasy.com
 surfshark.com
 surveydepartment.gov.mm
-sycbcongress.blogspot.com
 t.co
-tachileik.net
 tacticaltech.org
-tango.me
-teafund.org
 techlore.tech
 textsecure-service.whispersystems.org
 thanlwintimes.com
@@ -353,7 +354,6 @@ ultimate-anonymity.com
 ultravpn.com
 unfe.org
 upload.twitter.com
-uscampaignforburma.org
 veracrypt.fr
 video.cdninstagram.com
 video.twimg.com
@@ -365,6 +365,7 @@ web.facebook.com
 wfrtds.org
 whatsapp.com
 whynotbi.com
+wluml.org
 x.com
 xhamster.com
 xnxx.com
@@ -376,9 +377,7 @@ yandexwebcache.net
 ycdc.gov.mm
 yellowhammerfund.org
 yelwinoo.com
-yoyarlay.com
 ywcamyanmar.org
 zalen.info
 zenvpn.net
-zinaye.blogspot.com
 zzn.com

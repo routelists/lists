@@ -1,4 +1,4 @@
-# Domains blocked in SY per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in SY per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 aafaq.org
 ahraralsham.net
 alaan.fm
@@ -21,7 +21,6 @@ fraternity-sy.org
 freespeechdebate.com
 giyus.org
 godhatesfags.com
-guardianproject.info
 h-alali.net
 haririfoundationusa.org
 hide.me
@@ -65,7 +64,6 @@ topfreepornvideos.com
 wahdatalnimr.com
 washingtonpost.com
 welateme.info
-xvideos.com
 xxx.lanl.gov
 yandexwebcache.net
 ypsyria.com

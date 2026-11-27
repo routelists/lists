@@ -1,11 +1,9 @@
-# Domains blocked in UG per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in UG per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
-bcc.chat
 bros4bros.com
 ddosecrets.com
 doh-fi.blahdns.com
 edge-mqtt.facebook.com
-excite.com
 facebook.com
 feedtheminds.org
 freespeechdebate.com
@@ -13,12 +11,12 @@ fsdinternational.org
 hurinet.or.ug
 im0-tub-com.yandex.net
 justicewomen.com
+lingo.com
 lookaside.facebook.com
 noblogs.org
 ntc.party
 presearch.org
 proggie.ug
-selectanescort.com
 shia.org
 spinpalace.com
 static.xx.fbcdn.net
@@ -26,14 +24,7 @@ staticxx.facebook.com
 surfeasy.com
 teenhealthfx.com
 thegrapevine.co.ug
-travelgirls.com
 web.facebook.com
-wikisexguide.com
 witnesstalkradio.org
-wluml.org
-worldescortindex.com
-xhamster.com
-xnxx.com
 xvideos.com
 xxx.lanl.gov
-youporn.com

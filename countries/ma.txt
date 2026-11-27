@@ -1,5 +1,4 @@
-# Domains blocked in MA per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-abpr2.railfan.net
+# Domains blocked in MA per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 adaminstitute.org.il
 alqassam.ps
 amb-rasd.org
@@ -21,6 +20,7 @@ noblogs.org
 ntc.party
 oncf.ma
 polisario.e-monsite.com
+pre.ma
 presearch.org
 rmdan.tv
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net

@@ -1,4 +1,4 @@
-# Domains blocked in JO per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in JO per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 alhudood.net
 almejharnews.com
 arabi21.com
@@ -28,6 +28,7 @@ p19-sign.tiktokcdn-us.com
 p77-sign-sg-lite.tiktokcdn.com
 p77-sign-va.tiktokcdn.com
 p77-va.tiktokcdn.com
+presearch.org
 qanouniyat.org
 raseef22.net
 rassd.com

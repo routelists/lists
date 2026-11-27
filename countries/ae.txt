@@ -1,4 +1,4 @@
-# Domains blocked in AE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.to
 26sep.net
 4chan.org
@@ -63,6 +63,7 @@ bumble.com
 buydutchseeds.com
 casino.com
 casinotropez.com
+cawtar.org
 cbs.gov.il
 cdns.grindr.com
 change.org
@@ -73,6 +74,7 @@ dawnmena.org
 detainedindubai.org
 doh-fi.blahdns.com
 elbadil.info
+emasc-uae.com
 emiratesleaks.com
 emirati-affairs.com
 emiratiaffairs.com
@@ -97,7 +99,6 @@ hornet.com
 hotspotshield.com
 hournews.net
 hustler.com
-i2p2.de
 ibb-press.net
 ihrc.org.uk
 ikhwan.site
@@ -136,6 +137,7 @@ mullvad.net
 multiproxy.org
 mykalimag.com
 nasser-yamani.com
+nifty.org
 noblogs.org
 noonpost.net
 nordvpn.com
@@ -168,7 +170,6 @@ riverbelle.com
 royalvegas.com
 safervpn.com
 samesexmarriage.ca
-sasapost.com
 scruff.com
 secfirst.org
 secure.hi5.com
@@ -176,6 +177,7 @@ sexetc.org
 sharekomry.com
 singlewindow.gov.qa
 slotland.com
+socom.mil
 spinpalace.com
 stonewall.org.uk
 strongvpn.com
@@ -188,7 +190,6 @@ textsecure-service-ca.whispersystems.org
 the-good-way.com
 thegailygrind.com
 thekoran.com
-thenewkhalij.news
 thequran.com
 thereligionofpeace.com
 thetrevorproject.org

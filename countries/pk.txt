@@ -1,4 +1,4 @@
-# Domains blocked in PK per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in PK per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.to
 4chan.org
 888casino.com
@@ -20,7 +20,6 @@ allthefallen.moe
 alqalamonline.com
 alt.com
 amp.cloudflare.com
-anonymizer.nntime.com
 anonymouse.org
 anonymouse.ws
 api.protonvpn.ch
@@ -61,6 +60,7 @@ cdns.grindr.com
 cerveja.com
 cervezas.com
 chantelle.com
+chasevaluecentre.com
 citizenlab.ca
 cloudflare-ech.com
 collegehumor.com
@@ -105,16 +105,18 @@ frontlinedefenders.org
 fuckingfreemovies.com
 gayguide.net
 gayscape.com
+gaystarnews.com
 gaytoday.com
 globalgayz.com
 globalvillagespace.com
 goaskalice.columbia.edu
+godhatesfags.com
 goldenpalace.com
+gotgayporn.com
 grindr.com
 grindr.mobi
 guerrillagirls.com
 hackforums.net
-hafsite.org
 hazara.net
 hide.me
 hidemyass.com
@@ -154,9 +156,9 @@ khyber.org
 knapsackforhope.org
 kproxy.com
 kraken.com
+lalmasjid.com
 lesbiansubmission.com
 libgen.is
-libgen.life
 libgen.rs
 libgen.st
 lingo.com
@@ -184,7 +186,6 @@ nordvpn.com
 ntc.party
 nydailynews.com
 onlyfans.com
-outlookindia.com
 pakistanchristianpost.com
 pakistanmediawatch.com
 pakistanporntube.net
@@ -193,6 +194,7 @@ pastebin.com
 perlproxy.com
 pinkcupid.com
 planetromeo.com
+playboy.com
 pof.com
 pokerstars.com
 pornhub.com
@@ -200,7 +202,6 @@ premaritalsex.info
 presearch.org
 pridesource.com
 privatevpn.com
-proton.me
 protonvpn.com
 proxify.co.uk
 proxify.de
@@ -210,7 +211,6 @@ publictv.in
 purevpn.com
 pyo.org.pk
 qadiani.org
-queerty.com
 rabwah.net
 raftar.com
 rangonoor.com
@@ -224,6 +224,7 @@ search.com
 secfirst.org
 secure.hi5.com
 sex.com
+sex.xxx
 sexandu.ca
 sexetc.org
 sfsi.org

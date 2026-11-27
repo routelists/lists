@@ -1,10 +1,10 @@
-# Domains blocked in IT per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-0dt.net
+# Domains blocked in IT per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 123movies.is
 123movies.to
 123savemp3.net
 1337x.st
 1337x.to
+aliez.tv
 altadefinizione.black
 altadefinizione.blue
 altadefinizione.cafe
@@ -43,6 +43,7 @@ cineblog01hd.net
 cinemano.info
 cinemasubito.com
 conexaomp3.com
+cricfree.live
 cricfree.sc
 cricfree.sx
 cricfree.tv
@@ -57,7 +58,6 @@ demonoid.ph
 demonoid.pw
 demp3.com
 descargarmp3.info
-dnsleaktest.com
 doh-fi.blahdns.com
 e-mp3.ws
 embedezcast.com
@@ -163,6 +163,7 @@ miplayer.net
 mnr.gov.cn
 monacogoldcasino.com
 mondostreaming.net
+movie2k.tv
 movie4k.to
 mp3-center.net
 mp3.com
@@ -249,6 +250,7 @@ sportingbet.com
 sportp2p.com
 sportsinteraction.com
 sputniknews.cn
+sputniknews.com
 stardelcinema.org
 streamblog.tv
 streamingdb.co

@@ -1,5 +1,4 @@
-# Domains blocked in KE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-3wishes.com
+# Domains blocked in KE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 4online-gambling.com
 888casino.com
 abcunderwear.com
@@ -11,14 +10,12 @@ alqassam.ps
 alt.com
 amnestykenya.org
 amp.cloudflare.com
-anonymouse.org
 anonymsurfen.com
 badoo.com
 bcc.chat
 beeg.com
 betternet.co
 bogus.d2a8n1.rootcanary.net
-bravoporn.com
 btggaming.com
 bumble.com
 buydutchseeds.com
@@ -37,17 +34,10 @@ fidh.org
 forum.grasscity.com
 forum.mhut.org
 freespeechdebate.com
-friendfinder.com
 gayegypt.com
 gayscape.com
-godhatesfags.com
-hightimes.com
 hizb-ut-tahrir.org
-hotgaylist.com
-howtogrowmarijuana.com
-hustler.com
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 islaminstitut.de
 jackdaniels.com
@@ -57,7 +47,6 @@ justicewomen.com
 kat.am
 kenyanporn.blogspot.com
 kenyantg.blogspot.com
-kiwifarms.net
 knapsackforhope.org
 lesbiansubmission.com
 libgen.is
@@ -84,7 +73,6 @@ okcupid.com
 online-dating.org
 onlinegambling.com
 onlybingo.com
-onlyfans.com
 owaahh.com
 partypoker.net
 pikachakula.com
@@ -105,7 +93,6 @@ samesexmarriage.ca
 schwarzreport.org
 secfirst.org
 sex.com
-sexetc.org
 sfsi.org
 shia.org
 shroomery.org
@@ -114,7 +101,6 @@ socom.mil
 spark.com
 speeddater.co.uk
 spinpalace.com
-sportpesa.com
 surfeasy.com
 teenhealthfx.com
 thegaykenyan.blogspot.com
@@ -136,5 +122,5 @@ xhamster.com
 xnxx.com
 xxx.lanl.gov
 yandexwebcache.net
-youporn.com
+ymca.int
 yts.lt

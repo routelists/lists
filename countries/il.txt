@@ -1,7 +1,5 @@
-# Domains blocked in IL per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-al-awda.org
+# Domains blocked in IL per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 aljazeera.com
-aljazeera.net
 almayadeen.net
 alqassam.ps
 amp.cloudflare.com

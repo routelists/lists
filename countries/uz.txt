@@ -1,4 +1,4 @@
-# Domains blocked in UZ per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in UZ per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 888casino.com
 abpr2.railfan.net
 absinth.com
@@ -67,6 +67,7 @@ hunafa.com
 hushmail.com
 ikhwanonline.com
 im0-tub-com.yandex.net
+inetprivacy.com
 ipvanish.com
 iskcon.org
 jahonnews.uz
@@ -76,6 +77,7 @@ jmarshall.com
 justicewomen.com
 kavkazcenter.com
 khilafah.net
+knapsackforhope.org
 kraken.com
 krishna.com
 kucoin.com
@@ -126,12 +128,10 @@ rus.azattyq.org
 rus.ozodi.org
 rus.ozodlik.org
 safervpn.com
-samlib.ru
 scientology.org
 scribd.com
 secfirst.org
 seedjah.com
-shaman.aha.ru
 shram.kiev.ua
 slotland.com
 soundcloud.com
@@ -152,9 +152,11 @@ vpnunlimited.com
 webcache.googleusercontent.com
 wickr.com
 wluml.org
+xanga.com
 xhamster.com
 xnxx.com
 xs.gay.ru
 xvideos.com
+xxx.lanl.gov
 yandexwebcache.net
 youporn.com

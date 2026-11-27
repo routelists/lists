@@ -1,4 +1,4 @@
-# Domains blocked in BY per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in BY per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 34mag.net
 abbabusiness.org
 abfby.org
@@ -91,6 +91,7 @@ rada.fm
 rada.vision
 radabnr.org
 regnum.ru
+research.by
 robim.live
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net

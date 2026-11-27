@@ -1,11 +1,10 @@
-# Domains blocked in TH per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TH per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 037hdmovie.com
 10bet.com
 188bet.com
 4online-gambling.com
 888casino.com
 8kun.top
-adultfriendfinder.com
 amp.cloudflare.com
 asiantribune.com
 av-th.net
@@ -14,6 +13,7 @@ beeg.com
 beer.com
 bet365.com
 betbrain.com
+betdaq.com
 betfair.com
 beyondexgay.com
 blackhat.be
@@ -27,7 +27,6 @@ coquette.com
 covid19.moph.go.th
 danbooru.donmai.us
 dateinasia.com
-dedbit.com
 dekdek.com
 delicates.co.uk
 dlsite.com
@@ -60,6 +59,7 @@ im0-tub-com.yandex.net
 imp.free.fr
 implantinfo.com
 inetprivacy.com
+int.soccerway.com
 islaminstitut.de
 isranews.org
 justicewomen.com
@@ -68,7 +68,6 @@ ladbrokes.com
 lasenza.com
 lgbtnewsnow.org
 libgen.is
-libgen.life
 libgen.rs
 libgen.st
 lingo.com
@@ -113,7 +112,6 @@ riverbelle.com
 rollitup.org
 royalvegas.com
 rxmarijuana.com
-scribd.com
 search.data.go.th
 secfirst.org
 sex.com
@@ -132,12 +130,10 @@ thaiclinic.com
 thaicounsel.com
 thaicuties.com
 thaienews.blogspot.com
-thaigirls100.net
 thepiratebay.org
 tot.co.th
 truemoveh.truecorp.co.th
 tt-torrent.com
-tumblr.com
 ubisoft.com
 ultrasurf.us
 vanguardnewsnetwork.com

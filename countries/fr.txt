@@ -1,26 +1,25 @@
-# Domains blocked in FR per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in FR per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.st
-1337x.to
 1red.com
 1red2.com
+1red24.com
 1tv.ru
 abpr2.railfan.net
 actualidad.rt.com
 amp.cloudflare.com
 arabic.rt.com
 bcc.chat
-betflip.io
-bogus.d2a8n1.rootcanary.net
 centcom.mil
 cis.minsk.by
 copwatch.org
 cuscocasino.com
-darpa.mil
 ddosecrets.com
+de.rt.com
 doh-fi.blahdns.com
 excite.com
 eztv.ag
 eztv.re
+fcstream.cc
 feedtheminds.org
 fifostream.tv
 forum.mhut.org
@@ -29,12 +28,11 @@ freespeechdebate.com
 iciporno.com
 im0-tub-com.yandex.net
 inetprivacy.com
-is0lamanation.blogspot.fr
 iz.ru
-jsf.mil
 justicewomen.com
 katcr.to
 katehon.com
+kickasstorrents.to
 knapsackforhope.org
 lat.rt.rs
 lens.google.com
@@ -54,7 +52,6 @@ mp3.com
 navy.mil
 ninbet.com
 noblogs.org
-nsdapao.info
 ntc.party
 ntv.ru
 pacom.mil
@@ -62,6 +59,7 @@ panties.com
 polymarket.com
 premaritalsex.info
 presearch.org
+qbet.com
 quantico.marines.mil
 rapidgator.net
 ren.tv
@@ -72,6 +70,7 @@ root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 rtarabic.com
 rtr-planeta.com
+russia.tv
 sci-hub.wf
 secfirst.org
 shia.org
@@ -84,6 +83,7 @@ spinpalace.com
 sportnews.to
 sputnikglobe.com
 stake.com
+start.ubuntu.com
 stratcom.mil
 surfeasy.com
 thepiratebay.org

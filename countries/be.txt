@@ -1,4 +1,4 @@
-# Domains blocked in BE per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in BE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 1tv.ru
@@ -6,8 +6,7 @@
 adultfriendfinder.com
 amnesty.org
 amp.cloudflare.com
-banthis.tv
-bbm.com
+anon.inf.tu-dresden.de
 bcc.chat
 betfair.com
 blackhat.be
@@ -21,9 +20,9 @@ doh.dns.sb
 doubleclick.net
 excite.com
 feedtheminds.org
+feminist.org
 forum.mhut.org
 freespeechdebate.com
-gaytoday.com
 goldenpalace.com
 im0-tub-com.yandex.net
 implantinfo.com

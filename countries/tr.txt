@@ -1,5 +1,6 @@
-# Domains blocked in TR per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TR per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 100suzler.org
+2600.com
 306bets10.com
 307bets10.com
 4chan.org
@@ -74,6 +75,7 @@ freespeechdebate.com
 fuckingfreemovies.com
 gabile.com
 gambling.com
+gayegypt.com
 gayscape.com
 gazetepatika11.com
 genclgbti.org
@@ -104,7 +106,6 @@ howtogrowmarijuana.com
 howtouseabortionpill.org
 hustler.com
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 infinitetube.com
 ipvanish.com
@@ -170,7 +171,6 @@ partypoker.com
 pastebin.com
 pembehayat.org
 periscope.tv
-peta.xxx
 pkkonline.com
 planetromeo.com
 playboy.com
@@ -199,6 +199,7 @@ scruff.com
 secfirst.org
 securevpn.com
 sex.com
+sfsi.org
 shia.org
 siyahpembe.org
 slotland.com

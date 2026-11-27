@@ -1,15 +1,4 @@
-# Domains blocked in MT per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-bcc.chat
+# Domains blocked in MT per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 freespeechdebate.com
-im0-tub-com.yandex.net
-implantinfo.com
-inetprivacy.com
 justicewomen.com
-knapsackforhope.org
-megaproxy.com
-noblogs.org
 ntc.party
-presearch.org
-secfirst.org
-surfeasy.com
-xxx.lanl.gov

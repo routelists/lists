@@ -1,4 +1,4 @@
-# Domains blocked in CH per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CH per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1bet.com
 abpr2.railfan.net
 adultfriendfinder.com
@@ -24,10 +24,8 @@ feedtheminds.org
 fondfbr.ru
 forum.mhut.org
 freespeechdebate.com
-frontlineaids.org
 herdict.org
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 interwetten1.com
 interwetten2.com
@@ -43,6 +41,7 @@ libgen.lc
 libgen.life
 libgen.rs
 libgen.st
+limetorrents.pro
 lingo.com
 livejournal.com
 megaproxy.com
@@ -50,11 +49,13 @@ mnr.gov.cn
 mp3.com
 noblogs.org
 ntc.party
+partypoker.com
 pingomatic.com
 premaritalsex.info
 presearch.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
+russia.tv
 secfirst.org
 shia.org
 socom.mil
@@ -62,8 +63,8 @@ speeddater.co.uk
 spinpalace.com
 surfeasy.com
 tipxbet.com
+ultrasurf.us
 use-application-dns.net
-venus.com
 wirwetten.com
 xbet-5.com
 xxx.lanl.gov

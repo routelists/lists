@@ -1,4 +1,4 @@
-# Domains blocked in HU per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in HU per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1tv.ru
 amp.cloudflare.com
 banthis.tv
@@ -14,12 +14,10 @@ freespeechdebate.com
 guardster.com
 im0-tub-com.yandex.net
 inetprivacy.com
-islaminstitut.de
 justicewomen.com
 kifu.gov.hu
 knapsackforhope.org
 libgen.is
-libgen.life
 libgen.rs
 libgen.st
 lingo.com

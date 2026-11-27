@@ -1,4 +1,4 @@
-# Domains blocked in KR per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in KR per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 1koreannews.com
 4shared.com
 88square.com
@@ -50,10 +50,10 @@ exploitedteensasia.com
 feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
-friend.com.kp
 fuckingfreemovies.com
 gamespot.co.kr
 gayapatal.com
+gaytoday.com
 git.disroot.org
 giveu.net
 gnu.rep.kp
@@ -94,7 +94,6 @@ libgen.is
 libgen.lc
 libgen.rs
 libgen.st
-lingo.com
 lizardirc.org
 lxnetworks.co.kr
 ma.gov.kp

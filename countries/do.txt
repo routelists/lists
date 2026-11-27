@@ -1,4 +1,4 @@
-# Domains blocked in DO per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in DO per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 bcc.chat
 doh-fi.blahdns.com
@@ -7,7 +7,6 @@ forum.mhut.org
 freespeechdebate.com
 gaytoday.com
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 justicewomen.com
 khrp.org

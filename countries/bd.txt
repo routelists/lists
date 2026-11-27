@@ -1,5 +1,4 @@
-# Domains blocked in BD per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-22bet.com
+# Domains blocked in BD per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 absinth.com
 amaderkantha.com
 amp.cloudflare.com
@@ -20,7 +19,6 @@ feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
 gazwah.net
-globalpolicy.org
 hizb-ut-tahrir.org
 hotgaylist.com
 im0-tub-com.yandex.net

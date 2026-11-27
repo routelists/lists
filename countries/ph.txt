@@ -1,11 +1,10 @@
-# Domains blocked in PH per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
-8kun.top
+# Domains blocked in PH per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 absinth.com
 amp.cloudflare.com
+banthis.tv
 bcc.chat
 binance.com
 bogus.d2a8n1.rootcanary.net
-casinotropez.com
 cp-union.com
 ddosecrets.com
 deepseek.ai
@@ -17,16 +16,12 @@ forum.mhut.org
 freedns.afraid.org
 freehomepage.com
 freespeechdebate.com
-frontlineaids.org
 gnu.org
-goldenrivieracasino.com
 hanes.com
-iknowthatgirl.com
 im0-tub-com.yandex.net
 implantinfo.com
 inetprivacy.com
 islaminstitut.de
-joturl.com
 justicewomen.com
 kat.am
 kcna.kp
@@ -51,8 +46,6 @@ phkule.org
 pof.com
 premaritalsex.info
 presearch.org
-private.canadianshield.cira.ca
-riverbelle.com
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 safe2choose.org
@@ -63,6 +56,7 @@ speeddater.co.uk
 spinpalace.com
 surfeasy.com
 telegra.ph
+vpnunlimited.com
 wluml.org
 xxx.lanl.gov
 xxxbunker.com

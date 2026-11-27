@@ -1,4 +1,4 @@
-# Domains blocked in UA per OONI measurements 2026-10-27..2026-11-26 (https://ooni.org, CC BY 4.0)
+# Domains blocked in UA per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
 100kwt.com
 1c-bitrix.ru
 1prime.ru
@@ -67,6 +67,7 @@ europaplus.ru
 events.wmtransfer.com
 exchanger.money
 excite.com
+fast-torrent.ru
 feedtheminds.org
 files.wmtransfer.com
 fondfbr.ru
@@ -82,7 +83,6 @@ government.ru
 granma.cu
 gtrklnr.com
 hateit.ru
-hizb-ut-tahrir.org
 hosting.rbc.ru
 i-mult.tlum.ru
 icq.com
@@ -96,6 +96,7 @@ islaminstitut.de
 jokercasino.com.ua
 justicewomen.com
 karusel-tv.ru
+kcna.kp
 kianews24.ru
 kinopoisk.ru
 knapsackforhope.org
@@ -196,6 +197,8 @@ ria.ru
 rian.ru
 riarating.ru
 riverbelle.com
+root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
+root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 rossiyasegodnya.com
 royalvegas.com
 rsport.ria.ru
@@ -225,6 +228,7 @@ socom.mil
 spbu.ru
 speeddater.co.uk
 spinpalace.com
+sputnikglobe.com
 sputniknews.com
 spzh.eu
 surfeasy.com
@@ -243,7 +247,6 @@ tvc.ru
 tvzvezda.ru
 ukraina.ru
 vesti.ru
-vgtrk.ru
 video-preview.s3.yandex.net
 vk.com
 vremya.tv
