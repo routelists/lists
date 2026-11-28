@@ -1,7 +1,9 @@
-# Domains blocked in BG per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in BG per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 888casino.com
 amp.cloudflare.com
+bbm.com
 bcc.chat
+bel.sputnik.by
 bogus.d2a8n1.rootcanary.net
 casinotropez.com
 ddosecrets.com
@@ -51,6 +53,7 @@ sputniknews.cn
 sputniknews.com
 supergra.ua
 surfeasy.com
+use-application-dns.net
 wluml.org
 xxx.lanl.gov
 yandexwebcache.net

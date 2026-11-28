@@ -1,14 +1,16 @@
-# Domains blocked in CL per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CL per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 bcc.chat
 betfair.com
+diariopyme.com
 doh-fi.blahdns.com
+eldivisadero.cl
 elgraficochile.cl
 excite.com
-feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
 gaytoday.com
+hizb-ut-tahrir.org
 im0-tub-com.yandex.net
 implantinfo.com
 inetprivacy.com

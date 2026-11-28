@@ -1,4 +1,4 @@
-# Domains blocked in AE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AE per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.to
 26sep.net
 4chan.org
@@ -27,7 +27,6 @@ alt.com
 altamkeen.net
 althawrah.ye
 amp.cloudflare.com
-anonymizer.secuser.com
 answering-islam.org
 anti-cair-net.org
 api.protonvpn.ch
@@ -47,6 +46,7 @@ bahai-books.org
 bahai-devotions.org
 bahai-readings.org
 bahai-writings.org
+bcc.chat
 beeg.com
 belqees.tv
 betfair.com
@@ -113,6 +113,7 @@ islamic-relief.org
 islaminstitut.de
 islamion.com
 ivpn.net
+joinclubhouse.com
 justicewomen.com
 khabaragency.net
 khilafah.net
@@ -147,7 +148,6 @@ odysee.com
 okcupid.com
 onlinegambling.com
 onlyfans.com
-panties.com
 partypoker.com
 pflag.org
 planetromeo.com
@@ -177,11 +177,9 @@ sexetc.org
 sharekomry.com
 singlewindow.gov.qa
 slotland.com
-socom.mil
 spinpalace.com
 stonewall.org.uk
 strongvpn.com
-submission.org
 surfeasy.com
 surfshark.com
 talkyou.me
@@ -218,6 +216,7 @@ wluml.org
 xhamster.com
 xnxx.com
 xvideos.com
+xxx.lanl.gov
 yamanyoon.com
 youporn.com
 yts.lt

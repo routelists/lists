@@ -1,8 +1,7 @@
-# Domains blocked in IE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IE per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
 amp.cloudflare.com
 bcc.chat
-bogus.d2a8n1.rootcanary.net
 dit.whatsapp.net
 doh-fi.blahdns.com
 excite.com
@@ -16,10 +15,7 @@ inetprivacy.com
 jsf.mil
 justicewomen.com
 knapsackforhope.org
-libgen.is
 libgen.lc
-libgen.rs
-libgen.st
 limetorrents.pro
 lingo.com
 megaproxy.com
@@ -36,7 +32,6 @@ rt.com
 secfirst.org
 shia.org
 socom.mil
-sputnikglobe.com
 sputniknews.com
 surfeasy.com
 tvc.ru

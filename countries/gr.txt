@@ -1,4 +1,4 @@
-# Domains blocked in GR per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in GR per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 1tv.ru
@@ -8,7 +8,6 @@ bogus.d2a8n1.rootcanary.net
 casinotropez.com
 dnsleaktest.com
 doh-fi.blahdns.com
-euro-bet.gr
 excite.com
 forum.mhut.org
 freespeechdebate.com
@@ -21,6 +20,7 @@ knapsackforhope.org
 libgen.is
 libgen.rs
 libgen.st
+limetorrents.pro
 lingo.com
 loosecannonholdem.com
 luckynugget.com

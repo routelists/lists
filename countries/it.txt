@@ -1,7 +1,6 @@
-# Domains blocked in IT per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IT per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 123movies.is
 123movies.to
-123savemp3.net
 1337x.st
 1337x.to
 aliez.tv
@@ -13,6 +12,7 @@ altadefinizione.io
 altadefinizione.love
 altadefinizione.onl
 altadefinizione.online
+altadefinizione01.black
 altadefinizione01.click
 altadefinizione01.cool
 altadefinizione01.top
@@ -40,10 +40,8 @@ cineblog01.name
 cineblog01.online
 cineblog01.top
 cineblog01hd.net
-cinemano.info
 cinemasubito.com
 conexaomp3.com
-cricfree.live
 cricfree.sc
 cricfree.sx
 cricfree.tv
@@ -104,7 +102,6 @@ holigantv.com
 igg-games.com
 im0-tub-com.yandex.net
 imp3.cc
-implantinfo.com
 inetprivacy.com
 instamp3.co
 instreaming.info
@@ -130,7 +127,6 @@ libgen.gs
 libgen.is
 libgen.lc
 libgen.li
-libgen.life
 libgen.me
 libgen.rs
 libgen.st
@@ -150,7 +146,6 @@ livetv111.net
 livetvcdn.net
 lshunter.net
 luckynugget.com
-malwares.com
 marapcana.com
 marapcana.org
 mask-h2.icloud.com
@@ -179,7 +174,6 @@ mp3fusion.net
 mp3int.com
 mp3lemon.net
 mp3lemon.ws
-mp3limon.info
 mp3lio.net
 mp3monkey.net
 mp3prima.com
@@ -219,7 +213,6 @@ portalzuca.com
 premaritalsex.info
 presearch.org
 psychocydd.co.uk
-puntostreaming.com
 putlocker.is
 rapidgator.net
 rargb.to
@@ -247,7 +240,6 @@ solarmovie.is
 speeddater.co.uk
 spinpalace.com
 sportingbet.com
-sportp2p.com
 sportsinteraction.com
 sputniknews.cn
 sputniknews.com

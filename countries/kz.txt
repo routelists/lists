@@ -1,4 +1,4 @@
-# Domains blocked in KZ per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in KZ per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 12vpx.com
 1337x.to
 15minut.org
@@ -10,7 +10,6 @@ absinth.com
 activpn.com
 airvpn.org
 ajur.kz
-almatinki.com
 altaynews.kz
 amnesty.org.ru
 amp.cloudflare.com
@@ -25,6 +24,7 @@ avira.com
 azattyq.org
 azattyqasia.org
 bananavpn.com
+banthis.tv
 bcc.chat
 beeg.com
 belkavpn.com
@@ -165,7 +165,6 @@ mrpvpn.com
 msn.com
 mullvad.net
 mybrowservpn.com
-mydarling.ru
 myvpn.run
 namba.kz
 netflixvpn.com

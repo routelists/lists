@@ -1,12 +1,11 @@
-# Domains blocked in BE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
-1337x.st
+# Domains blocked in BE per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.to
 1tv.ru
 888casino.com
 adultfriendfinder.com
 amnesty.org
 amp.cloudflare.com
-anon.inf.tu-dresden.de
+banthis.tv
 bcc.chat
 betfair.com
 blackhat.be

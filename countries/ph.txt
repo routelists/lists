@@ -1,10 +1,9 @@
-# Domains blocked in PH per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in PH per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 absinth.com
 amp.cloudflare.com
 banthis.tv
 bcc.chat
 binance.com
-bogus.d2a8n1.rootcanary.net
 cp-union.com
 ddosecrets.com
 deepseek.ai
@@ -14,7 +13,6 @@ feedtheminds.org
 flirt.com
 forum.mhut.org
 freedns.afraid.org
-freehomepage.com
 freespeechdebate.com
 gnu.org
 hanes.com
@@ -46,6 +44,7 @@ phkule.org
 pof.com
 premaritalsex.info
 presearch.org
+riverbelle.com
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 safe2choose.org

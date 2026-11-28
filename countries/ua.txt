@@ -1,4 +1,4 @@
-# Domains blocked in UA per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in UA per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 100kwt.com
 1c-bitrix.ru
 1prime.ru
@@ -20,6 +20,7 @@ amp.cloudflare.com
 anna-news.info
 antifashist.com
 antimaydan.info
+apn.ru
 artv-news.ru
 auto.ru
 avatars.mds.yandex.net
@@ -75,6 +76,7 @@ forum.mhut.org
 frc.org
 freespeechdebate.com
 fsb.ru
+gaytoday.com
 gazeta.ru
 gazetacrimea.ru
 genocid.net
@@ -96,7 +98,6 @@ islaminstitut.de
 jokercasino.com.ua
 justicewomen.com
 karusel-tv.ru
-kcna.kp
 kianews24.ru
 kinopoisk.ru
 knapsackforhope.org
@@ -197,8 +198,6 @@ ria.ru
 rian.ru
 riarating.ru
 riverbelle.com
-root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
-root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 rossiyasegodnya.com
 royalvegas.com
 rsport.ria.ru

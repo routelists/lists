@@ -1,4 +1,4 @@
-# Domains blocked in TW per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TW per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 aec.gov.tw
 alibaba-tw.com
 amp.cloudflare.com
@@ -28,6 +28,7 @@ justicewomen.com
 kairos.news
 kcna.kp
 knapsackforhope.org
+lens.google.com
 libgen.is
 libgen.lc
 libgen.rs
@@ -44,6 +45,7 @@ presearch.org
 qhnews.com
 secfirst.org
 shia.org
+socom.mil
 sojourn.tw
 spinpalace.com
 surfeasy.com

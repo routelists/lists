@@ -1,4 +1,4 @@
-# Domains blocked in PK per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in PK per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.to
 4chan.org
 888casino.com
@@ -33,6 +33,7 @@ balochunitedfront.org
 balochvoice.com
 balochwarna.com
 balochwarna.org
+balouch.blogspot.com
 baluch.com
 baluchsarmachar.wordpress.com
 bcc.chat
@@ -53,7 +54,6 @@ bso-na.org
 btguard.com
 budweiser.com
 cannaweed.com
-carnegieendowment.org
 casino.com
 cc.bingj.com
 cdns.grindr.com
@@ -83,7 +83,6 @@ ebaumsworld.com
 egoods.pk
 embassies.mofa.gov.sa
 equal-eyes.org
-everyonedrawmohammed.blogspot.com
 excite.com
 expressvpn.com
 eztv.ag
@@ -105,7 +104,6 @@ frontlinedefenders.org
 fuckingfreemovies.com
 gayguide.net
 gayscape.com
-gaystarnews.com
 gaytoday.com
 globalgayz.com
 globalvillagespace.com
@@ -156,7 +154,6 @@ khyber.org
 knapsackforhope.org
 kproxy.com
 kraken.com
-lalmasjid.com
 lesbiansubmission.com
 libgen.is
 libgen.rs
@@ -202,6 +199,7 @@ premaritalsex.info
 presearch.org
 pridesource.com
 privatevpn.com
+proton.me
 protonvpn.com
 proxify.co.uk
 proxify.de
@@ -217,6 +215,7 @@ rangonoor.com
 recircle.life
 republicworld.com
 safenewsrooms.org
+sahe.org.pk
 samaa.tv
 samesexmarriage.ca
 scarleteen.com
@@ -231,9 +230,10 @@ sfsi.org
 shia.org
 shoe.org
 siasat.pk
-siecus.org
+siraiki.blogspot.com
 slotland.com
 socom.mil
+speeddater.co.uk
 spinpalace.com
 startmail.com
 stop-block.com
@@ -274,7 +274,6 @@ unesco.org.pk
 utorrent.com
 vk.com
 voadeewanews.com
-voiceofinternet.com
 vpn-api.proton.me
 vtunnel.com
 westernunion.com

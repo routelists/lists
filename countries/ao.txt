@@ -1,2 +1,2 @@
-# Domains blocked in AO per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AO per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 xxx.lanl.gov

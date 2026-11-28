@@ -1,11 +1,13 @@
-# Domains blocked in LK per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in LK per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
+bcc.chat
 excite.com
 freespeechdebate.com
 im0-tub-com.yandex.net
 inetprivacy.com
 justicewomen.com
 knapsackforhope.org
+lingo.com
 megaproxy.com
 noblogs.org
 presearch.org
@@ -15,4 +17,3 @@ spinpalace.com
 surfeasy.com
 threema.ch
 xxx.lanl.gov
-yandexwebcache.net

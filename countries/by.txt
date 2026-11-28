@@ -1,4 +1,4 @@
-# Domains blocked in BY per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in BY per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 34mag.net
 abbabusiness.org
 abfby.org
@@ -91,7 +91,6 @@ rada.fm
 rada.vision
 radabnr.org
 regnum.ru
-research.by
 robim.live
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
@@ -116,7 +115,6 @@ torrentbus.com
 torturesbelarus2020.org
 tsepkalo.com
 tsikhanouskaya.org
-tvrain.ru
 udf.name
 virtualbrest.by
 vitebskspring.org
@@ -125,7 +123,6 @@ wluml.org
 zbsb.info
 zerkalo.io
 zharov-lox.telegramproxy.me
-zona.media
 zubr.cc
 zubr.in
 zubr.media

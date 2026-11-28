@@ -1,12 +1,12 @@
-# Domains blocked in AR per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AR per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 888casino.com
+abpr2.railfan.net
 absinth.com
 agendadelasmujeres.com.ar
 amp.cloudflare.com
 argentinepost.com
 bcc.chat
 betfair.com
-bogus.d2a8n1.rootcanary.net
 casino.com
 ddosecrets.com
 diarioextra.com.ar
@@ -40,7 +40,6 @@ mp3.com
 noblogs.org
 ntc.party
 onu.org.ar
-pokerstars.com
 premaritalsex.info
 presearch.org
 secfirst.org

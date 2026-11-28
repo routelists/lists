@@ -1,5 +1,4 @@
-# Domains blocked in HU per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
-1tv.ru
+# Domains blocked in HU per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 banthis.tv
 bcc.chat
@@ -33,6 +32,7 @@ pokerstars.eu
 premaritalsex.info
 presearch.org
 romasajtokozpont.hu
+royalchat.hu
 rt.com
 secfirst.org
 shia.org

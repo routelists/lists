@@ -1,4 +1,4 @@
-# Domains blocked in CY per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CY per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 888casino.com
 amp.cloudflare.com
 archive.is
@@ -16,7 +16,7 @@ freespeechdebate.com
 goldenpalace.com
 goldenrivieracasino.com
 im0-tub-com.yandex.net
-ipfs.io
+inetprivacy.com
 jackpotcitycasino1.com
 justicewomen.com
 knapsackforhope.org
@@ -54,6 +54,7 @@ spinpalace.com
 sportingbet.com
 sportsinteraction.com
 surfeasy.com
+vesti.ru
 wluml.org
 xxx.lanl.gov
 yandexwebcache.net

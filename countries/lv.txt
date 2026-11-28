@@ -1,4 +1,4 @@
-# Domains blocked in LV per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in LV per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.to
 1tv.ru
 888casino.com
@@ -39,7 +39,6 @@ ntv.ru
 pravda.ru
 premaritalsex.info
 presearch.org
-proxy.i2phides.me
 rambler.ru
 ren.tv
 ria.ru
@@ -55,6 +54,7 @@ shia.org
 smotrim.ru
 socom.mil
 speeddater.co.uk
+sputniknews.cn
 surfeasy.com
 tvc.ru
 vesti.ru

@@ -1,4 +1,4 @@
-# Domains blocked in AT per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in AT per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1tv.ru
 abpr2.railfan.net
 amp.cloudflare.com
@@ -6,7 +6,6 @@ archive.ph
 bbm.com
 bcc.chat
 com.cy
-ddosecrets.com
 de.rt.com
 doh-fi.blahdns.com
 excite.com

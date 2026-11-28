@@ -1,4 +1,4 @@
-# Domains blocked in RU per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in RU per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 15min.lt
@@ -65,7 +65,6 @@ apollo.lv
 app.developer.here.com
 app.wire.com
 app.zcatt.net
-apt.ch
 archive.is
 archiveofourown.org
 army.mil
@@ -97,6 +96,7 @@ bbm.com
 bcc.chat
 bccdc.ca
 beeg.com
+beer.com
 beers.com
 bellingcat.com
 belsat.eu
@@ -122,6 +122,7 @@ blackseatv.com
 blancvpn.com
 blogs.voanews.com
 bluehost.com
+bme.com
 boingboing.net
 bok-o-bok.com
 bok-o-bok.ru
@@ -158,13 +159,14 @@ cherta.media
 chess.com
 chezasite.com
 chika.aangat.lahat.computer
+christianity.com
 christianitytoday.com
 christians4peace.com
 chronicles.media
 church.ua
 cia.gov
-circumcision.org
 citizenlab.ca
+climaterealityproject.org
 cnews.fr
 collegehumor.com
 colta.ru
@@ -208,6 +210,7 @@ dialog.ua
 diena.lv
 digg.com
 digi24.ro
+digital.globalclimatestrike.net
 digitalocean.com
 disabilityrightsfund.org
 discord.com
@@ -369,7 +372,6 @@ gsc-game.com
 guardster.com
 gubernia.media
 haqqin.az
-hateit.ru
 helpdesk.media
 hetzner.com
 hide.me
@@ -588,6 +590,7 @@ mombian.com
 moz.gov.ua
 mp3.com
 msf.org
+msn.com
 mstdn.io
 mstdn.jp
 mullvad.net
@@ -605,6 +608,7 @@ navalny.com
 navi.gg
 navy.mil
 nazarene.org
+nbcnews.com
 nbcnewyork.com
 ndi.org
 ned.org
@@ -643,6 +647,7 @@ novayapolsha.pl
 npr.org
 nr2.com.ua
 nrc.nl
+nsw2u.com
 ntc.party
 nthlink.com
 nuntiare.org
@@ -660,6 +665,7 @@ omsk.com
 omvesti.ru
 onlinegambling.com
 ooni.torproject.org
+oovoo.com
 open.substack.com
 openmedia.io
 openrussia.org
@@ -671,6 +677,7 @@ orf.at
 out.com
 outrightinternational.org
 ovdinfo.org
+ow.ly
 oxfam.org
 pacom.mil
 panties.com
@@ -751,6 +758,7 @@ quantico.marines.mil
 queerty.com
 quora.com
 radiofrance.fr
+radiofreetexas.com
 radiomarsho.com
 radiosvoboda.org
 rai.it
@@ -811,6 +819,7 @@ safe2choose.org
 sakharov.world
 samesexmarriage.ca
 samizdatonline.org
+satp.org
 saverudata.online
 sbs.com.au
 scarleteen.com
@@ -916,7 +925,6 @@ tf1info.fr
 the-village.ru
 theatlantic.com
 thebell.io
-theepochtimes.com
 theglobalobservatory.org
 thegooddrugsguide.com
 theins.press
@@ -943,6 +951,7 @@ transequality.org
 transgendermap.com
 transparency.org
 transparency.org.ru
+trashy.com
 trendsmap.com
 trisquel.info
 trust.zone
@@ -967,7 +976,6 @@ ua.krymr.com
 ua.tribuna.com
 uacrisis.org
 uainfo.org
-uber.com
 udikov.com
 ukrinform.ua
 ultrasurf.us
@@ -1027,6 +1035,7 @@ wikianime.club
 witness.org
 wluml.org
 womanadvice.ru
+womenfirstdigital.org
 womeninblack.org
 womenonwaves.org
 womenonweb.org
@@ -1044,6 +1053,7 @@ wpengine.com
 write.as
 wsjournal.ru
 wsws.org
+wupj.org
 wwf.panda.org
 x.com
 xanga.com
@@ -1055,7 +1065,9 @@ xvideos.com
 xxx.lanl.gov
 yandexwebcache.net
 yle.fi
+yola.com
 youporn.com
+yourls.org
 youtu.be
 youtube.com
 yt3.ggpht.com

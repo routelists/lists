@@ -1,4 +1,4 @@
-# Domains blocked in IN per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IN per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 2020sikhreferendum.org
@@ -16,7 +16,6 @@ adultwork.com
 alfafile.net
 aliexpress.com
 alipay.com
-alqassam.ps
 americansforkashmir.org
 amp.cloudflare.com
 amunra1.one
@@ -56,6 +55,7 @@ cmcm.com
 coinmarketcap.com
 collegehumor.com
 com.cy
+comdotgame.com
 cpimlnd.org
 cricfree.be
 crickethighlights.cricket
@@ -86,10 +86,8 @@ feedtheminds.org
 flirthookup.com
 forum.mhut.org
 freespeechdebate.com
-fteproxy.org
 fuckingfreemovies.com
 gayscape.com
-gaytoday.com
 geo.tv
 gnnhd.tv
 go-text.me
@@ -99,14 +97,11 @@ hdmaza.pk
 helo-app.com
 heroes.99.com
 hindutvawatch.org
-hizb-ut-tahrir.org
 hotgaylist.com
-http-tunnel.com
 ihago.net
 ihs.gov
 im0-tub-com.yandex.net
 imgbox.com
-implantinfo.com
 imqq.com
 indiahatelab.com
 inetprivacy.com
@@ -167,7 +162,6 @@ ntc.party
 nutaku.net
 ok.ru
 online-dating.org
-onlybingo.com
 originalelf.com
 parallel-app.com
 pb13.org
@@ -195,7 +189,6 @@ rapidgator.net
 rargb.to
 referendum2020.org
 replaymatches.net
-righttodie.ca
 rj10.org
 rlpindia.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
@@ -204,7 +197,6 @@ royalvegas.com
 rutube.ru
 sadapind.org
 samaa.tv
-samesexmarriage.ca
 savefrom.net
 secfirst.org
 secure.avaaz.org
@@ -218,7 +210,6 @@ sikhsiyasat.in
 sina.com.cn
 singoldating.com
 socom.mil
-spankbang.com
 speeddater.co.uk
 spinpalace.com
 sports.samaa.tv

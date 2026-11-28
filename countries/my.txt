@@ -1,4 +1,4 @@
-# Domains blocked in MY per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in MY per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 32red.com
@@ -32,6 +32,7 @@ excite.com
 eztv.ag
 eztv.re
 fanfiction.net
+feedtheminds.org
 financetwitter.com
 forum.mhut.org
 freedns.afraid.org

@@ -1,4 +1,4 @@
-# Domains blocked in DE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in DE per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 a-russia.ru
 amp.cloudflare.com
 bcc.chat
@@ -19,7 +19,6 @@ hdfilme.blog
 hdfilme.legal
 hesgoalguide.com
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 isrbx.com
 isrbx.net
@@ -35,7 +34,6 @@ libgen.rs
 libgen.st
 limetorrents.pro
 lingo.com
-malwares.com
 mask-h2.icloud.com
 mask.icloud.com
 megakino.biz

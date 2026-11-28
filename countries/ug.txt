@@ -1,11 +1,10 @@
-# Domains blocked in UG per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in UG per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 bros4bros.com
 ddosecrets.com
 doh-fi.blahdns.com
 edge-mqtt.facebook.com
 facebook.com
-feedtheminds.org
 freespeechdebate.com
 fsdinternational.org
 hurinet.or.ug
@@ -17,7 +16,6 @@ noblogs.org
 ntc.party
 presearch.org
 proggie.ug
-shia.org
 spinpalace.com
 static.xx.fbcdn.net
 staticxx.facebook.com

@@ -1,4 +1,4 @@
-# Domains blocked in CA per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CA per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 4k.new4k.cc
 4k.new4k.net
 6.aircel.me
@@ -29,7 +29,6 @@ gold.myiptvplanet.com
 goldtv.ca
 groups.msn.com
 im0-tub-com.yandex.net
-implantinfo.com
 inetprivacy.com
 islaminstitut.de
 justicewomen.com

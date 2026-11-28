@@ -1,11 +1,10 @@
-# Domains blocked in DK per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in DK per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
+1337x.st
 1337x.to
-1tv.ru
 amp.cloudflare.com
 bcc.chat
 ddosecrets.com
 doh-fi.blahdns.com
-excite.com
 eztv.ag
 eztv.re
 im0-tub-com.yandex.net
@@ -14,6 +13,7 @@ justicewomen.com
 katcr.to
 kickasstorrents.to
 knapsackforhope.org
+limetorrents.lol
 lingo.com
 megaproxy.com
 mp3.com
@@ -22,13 +22,16 @@ ntc.party
 ntv.ru
 premaritalsex.info
 presearch.org
+rargb.to
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 rt.com
+rtarabic.com
 searchindia.com
 socom.mil
+speeddater.co.uk
 spinpalace.com
 surfeasy.com
 thepiratebay.org
-vgtrk.ru
 wluml.org
+x1337x.eu

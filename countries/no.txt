@@ -1,4 +1,4 @@
-# Domains blocked in NO per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in NO per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 888casino.com
 abpr2.railfan.net
 adultfriendfinder.com
@@ -13,13 +13,12 @@ dnsleaktest.com
 doh-fi.blahdns.com
 excite.com
 feedtheminds.org
-fondfbr.ru
 forum.mhut.org
+freedns.afraid.org
 freespeechdebate.com
 im0-tub-com.yandex.net
 inetprivacy.com
 justicewomen.com
-khilafah.net
 knapsackforhope.org
 libgen.is
 libgen.lc
@@ -32,6 +31,7 @@ mnr.gov.cn
 mp3.com
 noblogs.org
 ntc.party
+panties.com
 partypoker.com
 pingomatic.com
 premaritalsex.info
@@ -39,6 +39,7 @@ presearch.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
 secfirst.org
+sexetc.org
 shia.org
 socom.mil
 speeddater.co.uk

@@ -1,4 +1,4 @@
-# Domains blocked in IL per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IL per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 aljazeera.com
 almayadeen.net
 alqassam.ps
@@ -20,7 +20,6 @@ knapsackforhope.org
 libgen.is
 libgen.rs
 libgen.st
-limetorrents.pro
 lingo.com
 megaproxy.com
 mnr.gov.cn

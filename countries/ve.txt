@@ -1,4 +1,4 @@
-# Domains blocked in VE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in VE per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 6topoder.com
 aguacateverde.com
 aguacateverde1.blogspot.com
@@ -41,6 +41,7 @@ dolartoday.com
 dolartoday.info
 dolartoday.org
 dollar.nu
+drugsense.org
 ectaco.com
 elecciones2024venezuela.com
 elnorte.com.ve
@@ -53,6 +54,7 @@ flujotv.co
 flujotv.la
 flujotvapp.app
 flujotvoficial.net
+forum.mhut.org
 freedns.afraid.org
 freespeechdebate.com
 fundacionlasalle.org.ve
@@ -84,7 +86,9 @@ knapsackforhope.org
 lens.google.com
 lgbtnewsnow.org
 liberal-venezolano.blogspot.com
+libgen.is
 libgen.lc
+libgen.rs
 libgen.st
 lingo.com
 macedoniadelnorte.com
@@ -94,6 +98,7 @@ magistv.info
 magistv.pro
 magistvmexico.net
 mailinator.com
+me.gob.ve
 megaproxy.com
 miconvive.com
 moondash.co.in

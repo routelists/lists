@@ -1,4 +1,4 @@
-# Domains blocked in TH per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TH per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 037hdmovie.com
 10bet.com
 188bet.com
@@ -16,6 +16,7 @@ betbrain.com
 betdaq.com
 betfair.com
 beyondexgay.com
+bglad.com
 blackhat.be
 blackjackinfo.com
 bogus.d2a8n1.rootcanary.net
@@ -38,6 +39,7 @@ elect.in.th
 en.wikipedia.org
 enlightened-jurists.com
 excite.com
+feedtheminds.org
 fnst.org
 forum.mhut.org
 freedomforthai.carrd.co
@@ -107,6 +109,7 @@ prachatalk.com
 premaritalsex.info
 presearch.org
 progressivemovement.in.th
+realbeer.com
 redsiam.wordpress.com
 riverbelle.com
 rollitup.org

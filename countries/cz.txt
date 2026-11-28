@@ -1,4 +1,4 @@
-# Domains blocked in CZ per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CZ per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1-x-bet.com
 1tv.ru
 1x-02.com
@@ -29,7 +29,6 @@
 1xbet48.com
 1xbet49.com
 1xbet50.com
-1xbet54.com
 1xbet6.com
 1xbet63.com
 1xbet64.com
@@ -42,10 +41,10 @@
 1xbet95.com
 amp.cloudflare.com
 banthis.tv
-bbm.com
 bcc.chat
 betworld7.com
 bogus.d2a8n1.rootcanary.net
+cc.bingj.com
 ddosecrets.com
 dit.whatsapp.net
 doh-fi.blahdns.com
@@ -89,6 +88,7 @@ sputniknews.com
 surfeasy.com
 svobodnenoviny.eu
 teenhealthfx.com
+tvc.ru
 webmoneycasino.com
 wluml.org
 xxx.lanl.gov

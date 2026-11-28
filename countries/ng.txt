@@ -1,4 +1,4 @@
-# Domains blocked in NG per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in NG per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 ablhingo.org
 abpr2.railfan.net
 adultfriendfinder.com
@@ -6,16 +6,22 @@ alt.com
 amp.cloudflare.com
 bcc.chat
 biafraradio.com
+binance.com
+blockchain.com
+coinbase.com
+coinex.com
 ddosecrets.com
 doh-fi.blahdns.com
 drugsense.org
+feedtheminds.org
 forum.mhut.org
 freennamdikanu.com
 freespeechdebate.com
 friendfinder.com
-genderindex.org
 granma.cu
 justicewomen.com
+kraken.com
+kucoin.com
 libgen.is
 libgen.rs
 libgen.st

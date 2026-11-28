@@ -1,8 +1,9 @@
-# Domains blocked in PY per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in PY per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 enlateclapy.com
 freespeechdebate.com
 gaytoday.com
 justicewomen.com
+mp3.com
 ntc.party
-sanlonewspy.com
+socom.mil
 surfeasy.com

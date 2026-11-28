@@ -1,4 +1,4 @@
-# Domains blocked in CM per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CM per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 agcfreeambazonia.org
 ambaland.com
 amp.cloudflare.com
@@ -32,12 +32,13 @@ libgen.rs
 libgen.st
 lingo.com
 livestream.com
-malwares.com
+massbrowser.cs.umass.edu
 megaproxy.com
 mnr.gov.cn
 mp3.com
 noblogs.org
 ntc.party
+openpgp.org
 premaritalsex.info
 presearch.org
 pridesource.com
@@ -46,6 +47,7 @@ ransbiz.com
 sakhr.com
 secfirst.org
 shia.org
+simplex.chat
 socom.mil
 speeddater.co.uk
 spinpalace.com

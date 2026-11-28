@@ -1,4 +1,4 @@
-# Domains blocked in NL per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in NL per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
 agenceurope.eu
 agentura.ru
@@ -17,6 +17,7 @@ excite.com
 eztv.re
 feedtheminds.org
 forum.mhut.org
+forum.torproject.org
 freespeechdebate.com
 globalvoices.org
 im0-tub-com.yandex.net
@@ -24,6 +25,7 @@ imrussia.org
 inetprivacy.com
 justicewomen.com
 khilafah.net
+kickasstorrents.to
 knapsackforhope.org
 lens.google.com
 liberal.ru
@@ -42,16 +44,12 @@ mnr.gov.cn
 mp3.com
 noblogs.org
 ntc.party
+partypoker.com
 premaritalsex.info
 presearch.org
-qhnews.com
-root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
-root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
-rtarabic.com
 secfirst.org
 shia.org
 socom.mil
-speeddater.co.uk
 spinpalace.com
 surfeasy.com
 thepiratebay.org

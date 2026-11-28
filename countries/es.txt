@@ -1,4 +1,4 @@
-# Domains blocked in ES per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in ES per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.st
 abpr2.railfan.net
 acestream.org
@@ -47,7 +47,6 @@ homeassistant.verlax.es
 iecubo.eu
 im0-tub-com.yandex.net
 images.wikidexcdn.net
-implantinfo.com
 inetprivacy.com
 infobae.media
 iptvtool.es
@@ -66,11 +65,11 @@ libgen.li
 libgen.rs
 libgen.st
 limetorrents.lol
+limetorrents.pro
 lingo.com
 magistv-pc.com
 magistv.cool
 magistv.pro
-malwares.com
 mamahd.org
 marianorajoy.cat
 mask-h2.icloud.com
@@ -80,8 +79,8 @@ mihon.app
 mnr.gov.cn
 motoresearch-uva.es
 mp3.com
+newalbumreleases.net
 noblogs.org
-nosololinux.es
 nsw2u.com
 ntc.party
 openlibro.com
@@ -125,6 +124,7 @@ sputniknews.com
 stun.fbsbx.com
 surfeasy.com
 tabmega.com
+thepiratebay.org
 theretroweb.com
 threedots.tech
 tinygs.com

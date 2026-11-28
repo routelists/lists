@@ -1,4 +1,4 @@
-# Domains blocked in ID per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in ID per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.st
 1337x.to
 3wishes.com
@@ -91,7 +91,6 @@ delicates.co.uk
 denypagetests.netsweeper.com
 dewabioskop21.org
 disdukcapil.kutaikartanegarakab.go.id
-dns.switch.ch
 doh-fi.blahdns.com
 dongengbudaya.wordpress.com
 dramaserial.xyz
@@ -192,7 +191,6 @@ lewdgamer.com
 lgbtnewsnow.org
 libgen.is
 libgen.lc
-libgen.life
 libgen.rs
 libgen.st
 liga95.com

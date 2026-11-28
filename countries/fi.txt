@@ -1,4 +1,4 @@
-# Domains blocked in FI per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in FI per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 abpr2.railfan.net
 amp.cloudflare.com
 archive.is
@@ -14,9 +14,11 @@ feedtheminds.org
 forum.mhut.org
 freespeechdebate.com
 im0-tub-com.yandex.net
+inetprivacy.com
 jsf.mil
 justicewomen.com
 khilafah.net
+knapsackforhope.org
 lgbtnewsnow.org
 libgen.is
 libgen.lc
@@ -49,6 +51,7 @@ shia.org
 slovodel.com
 socom.mil
 sota.vision
+sputniknews.com
 surfeasy.com
 vgtrk.ru
 wluml.org

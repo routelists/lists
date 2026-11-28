@@ -1,4 +1,4 @@
-# Domains blocked in GB per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in GB per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 bcc.chat
 bogus.d2a8n1.rootcanary.net
@@ -14,7 +14,6 @@ justicewomen.com
 knapsackforhope.org
 libgen.is
 libgen.lc
-libgen.life
 libgen.rs
 libgen.st
 lingo.com
@@ -30,6 +29,7 @@ premaritalsex.info
 presearch.org
 root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 root-key-sentinel-not-ta-38696.d2a8n3.rootcanary.net
+rt.com
 secfirst.org
 shia.org
 socom.mil

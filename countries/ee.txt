@@ -1,10 +1,10 @@
-# Domains blocked in EE per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
-abpr2.railfan.net
+# Domains blocked in EE per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 amp.cloudflare.com
 archive.is
 archive.ph
 bcc.chat
 betfair.com
+casinotropez.com
 doh-fi.blahdns.com
 excite.com
 forum.mhut.org
@@ -24,6 +24,7 @@ noblogs.org
 ntc.party
 pof.com
 presearch.org
+root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net
 secfirst.org
 spinpalace.com
 sputniknews.cn

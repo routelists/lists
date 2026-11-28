@@ -1,8 +1,8 @@
-# Domains blocked in HK per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
-8964museum.com
+# Domains blocked in HK per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 af.mil
 alliancecanadahk.com
 amp.cloudflare.com
+army.mil
 bcc.chat
 blockedbyhk.com
 bogus.d2a8n1.rootcanary.net
@@ -28,14 +28,18 @@ hkbayouthcenter.org.hk
 hkccla.org.hk
 hkdc.us
 hkimperium.com
+hola.org
 hongkonglit.com
 ilga-europe.org
 im0-tub-com.yandex.net
 inetprivacy.com
 jsf.mil
 justicewomen.com
+kaleidoscopetrust.com
+khilafah.net
 knapsackforhope.org
 labour.org.hk
+lgbt.foundation
 libgen.is
 libgen.rs
 libgen.st
@@ -48,10 +52,13 @@ nazarene.org
 ncforum.org.hk
 noblogs.org
 ntc.party
+ooni.torproject.org
 pacom.mil
 plug-mirror.rcac.purdue.edu
 premaritalsex.info
 presearch.org
+proxify.com
+proxy.org
 quantico.marines.mil
 retaas.hkpc.org
 satp.org
@@ -64,8 +71,10 @@ socom.mil
 southcom.mil
 speeddater.co.uk
 spinpalace.com
+sportingbet.com
 sscem.org
 stratcom.mil
+substack.com
 surfeasy.com
 surfychinaz.com
 tgr.org.hk
@@ -75,6 +84,7 @@ viber.com
 web.ttm.org.hk
 winemaster.com.hk
 wluml.org
+www8.javhub.me
 xuite.net
 xxx.lanl.gov
 yandexwebcache.net

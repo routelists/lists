@@ -1,4 +1,4 @@
-# Domains blocked in TZ per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in TZ per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 3wishes.com
 4chan.org
 888casino.com
@@ -100,7 +100,6 @@ nclrights.org
 newnownext.com
 nifty.org
 noblogs.org
-nordvpn.com
 ntc.party
 okcupid.com
 onescene.com
@@ -136,6 +135,7 @@ signal.org
 socom.mil
 speeddater.co.uk
 spinpalace.com
+stonewall.org.uk
 surfeasy.com
 t.co
 t.me

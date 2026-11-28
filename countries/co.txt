@@ -1,9 +1,10 @@
-# Domains blocked in CO per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in CO per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 888casino.com
 absinth.com
 acoso.online
 amp.cloudflare.com
 antivigilancia.org
+archive.ph
 bcc.chat
 blackjackinfo.com
 casino.com
@@ -29,13 +30,13 @@ goldenrivieracasino.com
 granacuerdovenezuela.com
 im0-tub-com.yandex.net
 imageshack.com
-implantinfo.com
 inetprivacy.com
 islaminstitut.de
 jackpotcitycasino1.com
 justicewomen.com
 knapsackforhope.org
 lalinternaazul.info
+lgbtnewsnow.org
 libgen.is
 libgen.lc
 libgen.rs

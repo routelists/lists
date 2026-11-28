@@ -1,4 +1,4 @@
-# Domains blocked in IR per OONI measurements 2026-10-28..2026-11-27 (https://ooni.org, CC BY 4.0)
+# Domains blocked in IR per OONI measurements 2026-10-29..2026-11-28 (https://ooni.org, CC BY 4.0)
 1337x.to
 1tv.ru
 20speed.co
@@ -130,7 +130,6 @@ beer.com
 beerinfo.com
 beers.com
 bellebound.com
-benarnews.org
 betfair.com
 betternet.co
 bglad.com
@@ -275,6 +274,7 @@ edaalat.org
 edge-chat.instagram.com
 edge-mqtt.facebook.com
 edition.cnn.com
+efe.com
 eharmony.com
 ehda.sbmu.ac.ir
 element.io
@@ -524,7 +524,6 @@ jihadwatch.org
 joinclubhouse.com
 jonbesh.org
 jsf.mil
-juof7.com
 justice4iran.org
 justicewomen.com
 jw.org
@@ -539,6 +538,7 @@ kazemjalali.com
 kelisayejame.org
 keriomaker.com
 khanehamn.org
+kharjhome.com
 khers69.wordpress.com
 khilafah.net
 khomainy.com
@@ -681,7 +681,6 @@ noblogs.org
 nordvpn.com
 nourizadeh.com
 novayapolsha.pl
-nsdapao.info
 nshrs.com
 ntc.party
 nurizad.info
@@ -741,6 +740,7 @@ pflag.org
 photobucket.com
 pinkcupid.com
 pinterest.co.uk
+plancpills.org
 planetromeo.com
 plannedparenthood.org
 playboy.com
@@ -770,6 +770,7 @@ purevpn.com
 pyknet.net
 qombol.com
 qph.fs.quoracdn.net
+qq.com
 queerty.com
 quora.com
 radio-neda.blogspot.com
